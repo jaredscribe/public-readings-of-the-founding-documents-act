@@ -152,8 +152,8 @@ note) is amended:
    and
 3. by adding at the end the following:
 
-> "(3) conduct a reading of the Constitution of the United States on September
-> 17 of each year, in the manner provided by section 3(d) of the Commemorative
+> "(3) provide the materials required by paragraph (2) in connection with the
+> reading of the Constitution required by section 3(d) of the Commemorative
 > Days Observance Act.".[^10]
 
 ---
@@ -166,10 +166,11 @@ new duty on any non-federal party. Sec. 3(b) gives federal employees a choice
 they do not currently have. Sec. 4 asks a question.
 
 Sec. 3(d) is the one provision here that commands rather than permits, and it
-should be pitched as what it is — the same duty Congress already imposed on
-agency heads in 2004, carried from handing out materials to reading the
-document aloud. Sec. 5 makes that continuity explicit by amending the 2004
-provision rather than legislating alongside it. Expect the cost objection
+should be pitched as what it is — a small extension of a duty Congress already
+imposed on the same officials in 2004, from furnishing employees materials on
+the Constitution to reading the document aloud. Sec. 5 makes the extension
+literal by amending the 2004 provision rather than legislating alongside it: the
+materials are to be handed out at the reading. Expect the cost objection
 anyway; the answer is Sec. 3(d)(3), which never requires an agency to open on a
 day it would otherwise be closed, and Sec. 3(d)(5), which is the only new
 expenditure in the bill and is measured in minutes.
@@ -268,6 +269,17 @@ CRS-directive form.
     [Pub. L. 108–447](https://www.govinfo.gov/content/pkg/PLAW-108publ447/html/PLAW-108publ447.htm).
     Proven language, and it makes the parallel to the 2004 materials duty
     explicit rather than implied.<br><br>
+    Be precise about what that parallel does and does not establish. The
+    *addressee* is identical — the same officials, the same subject, the same
+    day. The *duty* is not: § 111(a) requires furnishing materials, and this
+    requires convening people. Furnishing a pamphlet and holding an assembly are
+    different asks, and a staffer who says so is right. The answer is not to
+    claim they are the same duty but to say the ask is a small extension of one
+    Congress has already made, on the same officials, at no appropriation — and
+    that Sec. 5 makes the extension literal by requiring the 2004 materials to be
+    handed out at the reading. Do not let "the same duty since 2004" harden into
+    a claim of identity; it is an argument, and it should be offered as
+    one.<br><br>
     **Cost.** Finding (4) says a reading needs no personnel beyond those already
     at work. That became false the moment the reading became mandatory, because
     Independence Day and Juneteenth are legal public holidays on which many
@@ -276,6 +288,18 @@ CRS-directive form.
     the reading moves to the last preceding open day. No agency is ever required
     to open, and no employee is recalled on holiday premium pay under
     [5 U.S.C. § 5546](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5546&num=0&edition=prelim).<br><br>
+    Two consequences of paragraph (3) that are deliberate but should not be
+    discovered by an opponent first. It drifts the date: Juneteenth falling on a
+    Sunday puts the reading on Friday June 17, two days early. The implementing
+    agency's gloss on the Constitution Day school program takes the other
+    approach — "during the preceding or following week"
+    ([70 Fed. Reg. 29727](https://www.govinfo.gov/content/pkg/FR-2005-05-24/html/05-10355.htm))
+    — which reads better but gives an agency no fixed date, and a duty with no
+    determinate date is a duty nobody can be shown to have missed. Determinacy
+    was chosen over proximity; a sponsoring office may reasonably choose
+    otherwise. Second, the covered days are months apart (June 19, July 4,
+    September 17), so no two readings can ever be pushed onto the same preceding
+    workday. Paragraph (3) needs no sequencing rule and none is drafted.<br><br>
     **Compelled speech.** A mandatory ceremonial reading conducted by the
     Government invites the objection that employees are conscripted into it.
     Paragraphs (4) and (5) foreclose it at no cost, on the model of Track B
@@ -375,7 +399,17 @@ CRS-directive form.
     — two duties, same day, same addressee, sitting in two unconnected statutes.
     That is precisely the defect A1's note identifies: a new command standing
     beside an untouched old one.<br><br>
-    Amending § 111(a) puts the reading where the materials duty already lives.
+    **The first version of this section reproduced the very defect it was added
+    to cure, and was rewritten.** It inserted a § 111(a)(3) requiring agency
+    heads to "conduct a reading of the Constitution … on September 17 of each
+    year." But Sec. 3(d)(1) already requires exactly that reading, for all three
+    covered days including September 17 — so the amendment created two operative
+    commands for one act, in two statutes, which is the same disease under a
+    different name. Sec. 3(d) is now the *only* place the reading is commanded.
+    What § 111(a)(3) does instead is coordinate: the materials Congress has
+    required since 2004 are to be handed out **at** the reading. That is a real
+    duty, it is not a duplicate, and it makes the two obligations one
+    event.<br><br>
     Verified against the enacted text: § 111(a) has exactly two paragraphs, the
     first ending in "; and" and the second in a period, so the amendatory
     instructions above are correct as drafted. § 111 has not been amended since
