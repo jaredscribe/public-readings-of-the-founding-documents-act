@@ -148,12 +148,12 @@ readings, forums, or educational events in their districts on that day.
 
 - **The lead-by-example clauses are factually grounded — use them.** The
   second and third preambular clauses describe real, current law.
-  [Section 106 of title 36](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section106&num=0&edition=prelim)
+  [36 U.S.C. § 106](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section106&num=0&edition=prelim)
   designates Constitution Day but imposes no instructional duty on
-  anyone; the duties come from section 111 of division J of the Consolidated
-  Appropriations Act, 2005 ([Public Law 108–447](https://www.govinfo.gov/content/pkg/PLAW-108publ447/html/PLAW-108publ447.htm)),
-  which appears as a statutory note to
-  [36 U.S.C. 106](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section106&num=0&edition=prelim).
+  anyone; the duties come from
+  [Pub. L. 108–447](https://www.govinfo.gov/content/pkg/PLAW-108publ447/html/PLAW-108publ447.htm)
+  § 111, div. J (the Consolidated Appropriations Act, 2005), which the Code
+  carries as a note to § 106.
   That note requires *educational institutions
   receiving Federal funds* to hold an **educational program**, and requires
   each *Federal agency* to furnish its employees **educational materials**.

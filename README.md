@@ -74,13 +74,27 @@ amendment target that could not have worked, and a library funding condition
 attached to a funding stream that does not reach libraries. Those corrections
 are recorded in the notes themselves rather than quietly absorbed.
 
-One provision deserves particular scrutiny and is annotated accordingly:
+Two provisions deserve particular scrutiny and are annotated accordingly:
 
-- **Track A2, Sec. 3's holiday election.** Its strongest defense is that it
+- **Track A2, Sec. 3(b)'s holiday election.** Its strongest defense is that it
   adds no net paid time off. That defense holds *only* if the section is
   drafted as a fixed two-day-equivalent entitlement rather than as additional
   half-days layered on existing holidays. The drafting has to carry the
   argument.
+- **Track A2, Sec. 3(d)'s reading requirement.** It is the only provision in
+  this repository that commands rather than permits, and it commands the
+  executive branch. It was rewritten on 2026-09-04 from an offer into a duty;
+  the notes at that subsection set out what the change required — a bounded
+  addressee, a rule for days the agency is closed, express voluntariness for
+  employees, and a conforming amendment so the new duty does not sit beside the
+  untouched 2004 one.
+
+**Citation form.** Code citations throughout are given in short form —
+`36 U.S.C. § 106`, `1 U.S.C. § 1` — including inside operative bill text.
+The Office of the Legislative Counsel's own style is the long form
+("section 106 of title 36, United States Code"), and a drafting service will
+convert these on the way to introduction. The short form is used here because
+these documents are read far more often than they are introduced.
 
 A note on naming, for anyone following the May 8 proposal to the separate
 repository described above: it uses the day's actual federal name, *Victory
