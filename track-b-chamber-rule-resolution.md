@@ -6,15 +6,29 @@ A chamber adopting its own internal procedure. **No presidential signature, no
 action by the other chamber, no committee markup on the merits of a statute.**
 
 This is the cheapest ask in this repository that still requires a vote, and it
-is the one with the most direct precedent: since January 2011, the House of
-Representatives has opened each new Congress with a reading of the
-Constitution aloud on the floor. That practice was adopted by the House acting
-on itself.
+is the one with the most direct precedent. The House has read the Constitution
+aloud on its own floor at the opening of several recent Congresses, beginning
+January 6, 2011.
 
-**This resolution does not propose a new ritual. It proposes a better schedule
-for one the House already has** — moving from once every two years at the
-opening of a new Congress to annually, on the day that bears the document's
-name.
+**But it has never made the practice permanent, and that is the point of this
+resolution.** The 2011 reading was authorized for a single day. H.Res. 5,
+112th Congress, Sec. 5(a):
+
+> The Speaker may recognize a Member for the reading of the Constitution on
+> the legislative day of January 6, 2011.
+
+— [Government Publishing Office](https://www.govinfo.gov/content/pkg/BILLS-112hres5eh/html/BILLS-112hres5eh.htm)
+
+Every reading since has required its own fresh authorization in that
+Congress's rules package, and readings have not occurred in every Congress.
+The practice therefore survives only so long as each incoming majority chooses
+to re-authorize it, and it has become associated with the majority that
+introduced it — which is precisely the fragility a standing rule removes.
+
+**This resolution does not propose a new ritual. It proposes making permanent
+one the House has repeatedly chosen, and moving it to the day that bears the
+document's name.** The House has shown five times over that it values the
+practice enough to re-adopt it. It has never yet made it a rule.
 
 > **[DRAFTING NOTE]** Drafted below for the House. For the Senate, substitute
 > "Senate" throughout, adjust the resolving clause, and remove the reference
@@ -60,12 +74,19 @@ Representatives exists, and by which each Member holds office;
 *Whereas* each Member of the House takes an oath to support and defend the
 Constitution;
 
-*Whereas* the House has, since January 2011, opened each new Congress with a
-reading of the Constitution aloud on the floor of the House, and that practice
-has been carried out without disruption to the legislative schedule;
+*Whereas* the House has, at the opening of several recent Congresses beginning
+on January 6, 2011, read the Constitution aloud on the floor of the House, and
+has done so without disruption to the legislative schedule;
 
-*Whereas* that practice occurs once in each two-year Congress and not on the
-day set aside by law to commemorate the document itself; and
+*Whereas* each such reading has been authorized separately, for a single
+legislative day, by the rules package of the Congress in which it occurred,
+and the House has never established the practice as a standing rule;
+
+*Whereas* a practice that must be re-adopted by each incoming majority is a
+practice that may lapse, and this one has lapsed; and
+
+*Whereas* that practice, when it occurs, occurs at the opening of a Congress
+and not on the day set aside by law to commemorate the document itself; and
 
 *Whereas* a reading requires no appropriation and no resource the House does
 not already possess: Now, therefore, be it
@@ -105,10 +126,33 @@ readings, forums, or educational events in their districts on that day.
 
 ## Notes for a sponsoring office
 
-- **The strongest framing is continuity, not novelty.** The House already
-  reads the Constitution aloud. This changes when, not whether. Offices
-  reluctant to be seen adopting a new ceremony are usually comfortable
-  extending an existing one.
+- **The strongest framing is permanence, not novelty.** The House has chosen
+  this reading repeatedly and has never made it a rule. The ask is to stop
+  re-deciding it every two years. Offices reluctant to be seen adopting a new
+  ceremony are usually comfortable making an existing one permanent.
+
+- **[VERIFIED 2026-09-04] Do not claim an unbroken tradition.** An earlier
+  draft of this document said the House "has opened each new Congress with a
+  reading of the Constitution aloud on the floor since January 2011." That is
+  wrong and was corrected. Readings are documented in 2011, 2013, 2015, 2017,
+  and 2023; Speaker McCarthy described the 2023 reading as occurring "for the
+  first time in years," which places a gap in between. The practice was begun
+  by a Republican majority and has largely tracked that majority since.
+
+  Two consequences for anyone using this text. First, the overstatement is
+  trivially checkable and would cost the resolution its credibility on its
+  central factual claim. Second — and more useful — the accurate version is
+  the *better* argument: a practice that depends on who holds the gavel is
+  exactly the kind of thing a standing rule exists to protect. Lead with that,
+  not with a continuity claim that does not survive a search.
+
+- **Expect the partisanship objection, and answer it with the calendar.**
+  Because the practice has tracked one party's majorities, a member of the
+  other party may hear this as a partisan ask. The answer is in the
+  resolution's design: moving the reading to September 17 detaches it from the
+  opening-day rules fight entirely, and a standing rule binds whichever party
+  holds the majority next. A permanent rule is the least partisan available
+  version of this practice.
 
 - **Section 3 exists to answer the only serious procedural objection** — that
   floor time is scarce. Whether the reading is better placed before the

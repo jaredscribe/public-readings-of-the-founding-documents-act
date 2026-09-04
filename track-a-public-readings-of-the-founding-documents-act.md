@@ -58,9 +58,10 @@ with educational materials concerning the Constitution on that day.
 institutions and upon the executive branch, and has imposed no comparable
 requirement upon itself.
 
-**(7)** Since January 2011, the House of Representatives has opened each new
-Congress with a reading of the Constitution aloud on the floor of the House,
-adopted by the House as a matter of its own internal rules.
+**(7)** The House of Representatives has, at the opening of several recent
+Congresses beginning on January 6, 2011, read the Constitution aloud on the
+floor of the House, in each instance under an authorization adopted for a
+single legislative day in that Congress's rules package.
 
 **(8)** A public reading is a low-cost civic act. It requires no
 appropriation, no facility, and no personnel beyond those already present at a
