@@ -11,7 +11,8 @@ aloud on its own floor at the opening of several recent Congresses, beginning
 January 6, 2011.
 
 **But it has never made the practice permanent, and that is the point of this
-resolution.** The 2011 reading was authorized for a single day. H.Res. 5,
+resolution.** The 2011 reading was authorized for a single day.
+[H.Res. 5](https://www.govinfo.gov/content/pkg/BILLS-112hres5eh/html/BILLS-112hres5eh.htm),
 112th Congress, Sec. 5(a):
 
 > The Speaker may recognize a Member for the reading of the Constitution on
@@ -28,40 +29,7 @@ introduced it — which is precisely the fragility a standing rule removes.
 **This resolution does not propose a new ritual. It proposes making permanent
 one the House has repeatedly chosen, and moving it to the day that bears the
 document's name.** The House has shown five times over that it values the
-practice enough to re-adopt it. It has never yet made it a rule.
-
-> **[VERIFIED 2026-09-04 — and the Senate version has a better analogy
-> available.]** Drafted below for the House. For the Senate, substitute
-> "Senate" throughout, adjust the resolving clause, and remove the reference to
-> the opening-day practice — that practice is the House's, and claiming it as
-> the Senate's own is exactly the kind of error that gets a resolution handed
-> back.
->
-> Checked: **the Senate has never adopted any resolution or rule providing for
-> a reading of the Constitution.** Its first-day proceedings (CRS RS20722)
-> include no such reading, and senate.gov's own traditions inventory lists
-> Washington's Farewell Address as the only document read aloud in the Chamber
-> as a tradition.
->
-> But do not tell a Senate office the idea is unprecedented there, because two
-> things are true and both help:
->
-> 1. **The Constitution has been read aloud on the Senate floor** — by Senator
->    Russ Feingold on March 1, 2006, during the PATRIOT Act reauthorization
->    debate, covering the Preamble, Articles I–VII and the Bill of Rights
->    (152 Cong. Rec. S1563–S1568). Precedent for the *act*, not the practice.
-> 2. **The Farewell Address is the analogy to lead with.** The Senate has read
->    Washington's Farewell Address aloud in the Chamber annually — a member
->    chosen each year, alternating parties — since the 1890s, a practice begun
->    February 22, 1862 as a Civil War morale measure. That is a *standing
->    annual ceremonial reading of a founding-era document by a designated
->    member*, which is precisely what this resolution asks for. A Senate
->    version should be pitched as extending an existing Senate tradition to a
->    second document, not as importing a House practice.
->
-> (senate.gov is internally inconsistent on when the Farewell reading became
-> annual — its Traditions page says 1896, a Historical Office summary says
-> 1893. Either cite the Traditions page or write "annually since the 1890s.")
+practice enough to re-adopt it. It has never yet made it a rule.[^1]
 
 ---
 
@@ -153,31 +121,9 @@ readings, forums, or educational events in their districts on that day.
 ## Notes for a sponsoring office
 
 - **The strongest framing is permanence, not novelty.** The House has chosen
-  this reading repeatedly and has never made it a rule. The ask is to stop
+  this reading repeatedly and has never made it a rule.[^2] The ask is to stop
   re-deciding it every two years. Offices reluctant to be seen adopting a new
   ceremony are usually comfortable making an existing one permanent.
-
-- **[VERIFIED 2026-09-04] Do not claim an unbroken tradition.** An earlier
-  draft of this document said the House "has opened each new Congress with a
-  reading of the Constitution aloud on the floor since January 2011." That is
-  wrong and was corrected. Readings are documented in 2011, 2013, 2015, 2017,
-  and 2023; Speaker McCarthy described the 2023 reading as occurring "for the
-  first time in years," which places a gap in between. The practice was begun
-  by a Republican majority and has largely tracked that majority since.
-
-  Say "**five times, pursuant to the rules of the House**" if you count them.
-  The bare number is defensible only with that qualifier: there was an
-  additional reading on January 23, 2019 (116th Congress) conducted as a
-  minority-leader special-order hour rather than under the rules package, so
-  "five" is right for rules-mandated openings and wrong as a count of all
-  floor readings.
-
-  Two consequences for anyone using this text. First, the overstatement is
-  trivially checkable and would cost the resolution its credibility on its
-  central factual claim. Second — and more useful — the accurate version is
-  the *better* argument: a practice that depends on who holds the gavel is
-  exactly the kind of thing a standing rule exists to protect. Lead with that,
-  not with a continuity claim that does not survive a search.
 
 - **Expect the partisanship objection, and answer it with the calendar.**
   Because the practice has tracked one party's majorities, a member of the
@@ -201,11 +147,14 @@ readings, forums, or educational events in their districts on that day.
   point.
 
 - **The lead-by-example clauses are factually grounded — use them.** The
-  second and third preambular clauses describe real, current law. Section 106
-  of title 36 designates Constitution Day but imposes no instructional duty on
+  second and third preambular clauses describe real, current law.
+  [Section 106 of title 36](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section106&num=0&edition=prelim)
+  designates Constitution Day but imposes no instructional duty on
   anyone; the duties come from section 111 of division J of the Consolidated
-  Appropriations Act, 2005 (Public Law 108–447), which appears as a statutory
-  note to 36 U.S.C. 106. That note requires *educational institutions
+  Appropriations Act, 2005 ([Public Law 108–447](https://www.govinfo.gov/content/pkg/PLAW-108publ447/html/PLAW-108publ447.htm)),
+  which appears as a statutory note to
+  [36 U.S.C. 106](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section106&num=0&edition=prelim).
+  That note requires *educational institutions
   receiving Federal funds* to hold an **educational program**, and requires
   each *Federal agency* to furnish its employees **educational materials**.
   Congress imposed both obligations and exempted itself from any comparable
@@ -219,3 +168,57 @@ readings, forums, or educational events in their districts on that day.
   correction for an unfriendly reader to make, and it is the sort of error
   that costs a resolution its credibility on the one point where it is
   strongest.
+
+---
+
+## Drafting notes
+
+[^1]: **[VERIFIED 2026-09-04 — and the Senate version has a better analogy
+    available.]** Drafted below for the House. For the Senate, substitute
+    "Senate" throughout, adjust the resolving clause, and remove the reference to
+    the opening-day practice — that practice is the House's, and claiming it as
+    the Senate's own is exactly the kind of error that gets a resolution handed
+    back.<br><br>
+    Checked: **the Senate has never adopted any resolution or rule providing for
+    a reading of the Constitution.** Its first-day proceedings (CRS RS20722)
+    include no such reading, and senate.gov's own traditions inventory lists
+    Washington's Farewell Address as the only document read aloud in the Chamber
+    as a tradition.<br><br>
+    But do not tell a Senate office the idea is unprecedented there, because two
+    things are true and both help:<br><br>1. **The Constitution has been read
+    aloud on the Senate floor** — by Senator
+    Russ Feingold on March 1, 2006, during the PATRIOT Act reauthorization
+    debate, covering the Preamble, Articles I–VII and the Bill of Rights
+    (152 Cong. Rec. S1563–S1568). Precedent for the *act*, not the
+    practice.<br><br>2. **The Farewell Address is the analogy to lead with.** The Senate has read
+    Washington's Farewell Address aloud in the Chamber annually — a member
+    chosen each year, alternating parties — since the 1890s, a practice begun
+    February 22, 1862 as a Civil War morale measure. That is a *standing
+    annual ceremonial reading of a founding-era document by a designated
+    member*, which is precisely what this resolution asks for. A Senate
+    version should be pitched as extending an existing Senate tradition to a
+    second document, not as importing a House practice.<br><br>
+    (senate.gov is internally inconsistent on when the Farewell reading became
+    annual — its Traditions page says 1896, a Historical Office summary says
+    1893. Either cite the Traditions page or write "annually since the 1890s.")
+
+[^2]: **[VERIFIED 2026-09-04] Do not claim an unbroken tradition.** An earlier
+    draft of this document said the House "has opened each new Congress with a
+    reading of the Constitution aloud on the floor since January 2011." That is
+    wrong and was corrected. Readings are documented in 2011, 2013, 2015, 2017,
+    and 2023; Speaker McCarthy described the 2023 reading as occurring "for the
+    first time in years," which places a gap in between. The practice was begun
+    by a Republican majority and has largely tracked that majority
+    since.<br><br>
+    Say "**five times, pursuant to the rules of the House**" if you count them.
+    The bare number is defensible only with that qualifier: there was an
+    additional reading on January 23, 2019 (116th Congress) conducted as a
+    minority-leader special-order hour rather than under the rules package, so
+    "five" is right for rules-mandated openings and wrong as a count of all
+    floor readings.<br><br>
+    Two consequences for anyone using this text. First, the overstatement is
+    trivially checkable and would cost the resolution its credibility on its
+    central factual claim. Second — and more useful — the accurate version is
+    the *better* argument: a practice that depends on who holds the gavel is
+    exactly the kind of thing a standing rule exists to protect. Lead with that,
+    not with a continuity claim that does not survive a search.

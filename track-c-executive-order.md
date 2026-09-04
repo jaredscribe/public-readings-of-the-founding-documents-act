@@ -12,15 +12,8 @@ why it is listed first.
 The argument for this track is a process argument and holds under any
 administration: commemorative observances are already directed by proclamation
 and executive order as a matter of routine, in every administration of the
-modern era. This asks only that one such observance be made **recurring**, and
-be given a **form** — a reading — rather than a statement.
-
-> **[DRAFTING NOTE]** Deliberately drafted without reference to any particular
-> President's record or preferences. An EO justified by one administration's
-> demonstrated appetite for commemorative proclamations is an EO that expires
-> with that administration, and it reads as partisan to everyone else. The
-> case here is that the ask is procedurally cheap and substantively small,
-> which is true regardless of who holds the office.
+modern era.[^1] This asks only that one such observance be made **recurring**,
+and be given a **form** — a reading — rather than a statement.
 
 ---
 
@@ -123,3 +116,14 @@ officers, employees, or agents, or any other person.
 
 - **This order does not depend on Track A or Track B**, and adopting it does
   not commit the administration to either.
+
+---
+
+## Drafting notes
+
+[^1]: **[DRAFTING NOTE]** Deliberately drafted without reference to any particular
+    President's record or preferences. An EO justified by one administration's
+    demonstrated appetite for commemorative proclamations is an EO that expires
+    with that administration, and it reads as partisan to everyone else. The
+    case here is that the ask is procedurally cheap and substantively small,
+    which is true regardless of who holds the office.

@@ -56,20 +56,16 @@ not to correct a Founder, but to finish him.
 
 These documents are a good-faith drafting of an advocacy proposal. They have
 **not** been reviewed by legislative counsel, and they are not the product of
-a drafting service. Passages marked
-
-> **[DRAFTING NOTE]**
-
-flag places where the intent is settled but the exact statutory mechanics,
+a drafting service. Annotated passages carry a numbered footnote
+marker, and the notes themselves are collected under a **Drafting notes**
+heading at the foot of each document. A note that begins **[DRAFTING NOTE]**
+flags a place where the intent is settled but the exact statutory mechanics,
 citation, or amendment target still needs to be confirmed against the current
 U.S. Code before introduction. Where a question has since been checked and
-settled, the note is relabelled
-
-> **[VERIFIED &lt;date&gt;]**
-
-and says what was confirmed. Both kinds of note are deliberately left in the
-public text rather than hidden — a staffer should be able to see exactly which
-parts have been verified and which have not.
+settled, the note begins **[VERIFIED &lt;date&gt;]** instead and says what was
+confirmed. Both kinds of note are deliberately left in the public text rather
+than hidden — a staffer should be able to see exactly which parts have been
+verified and which have not.
 
 A research pass on 2026-09-04 resolved most of the original notes against
 primary sources, and in the process overturned four published claims: a
