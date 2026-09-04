@@ -55,6 +55,13 @@ and says what was confirmed. Both kinds of note are deliberately left in the
 public text rather than hidden — a staffer should be able to see exactly which
 parts have been verified and which have not.
 
+A research pass on 2026-09-04 resolved most of the original notes against
+primary sources, and in the process overturned four published claims: a
+misattributed Lincoln quotation, the wrong committees of jurisdiction, an
+amendment target that could not have worked, and a library funding condition
+attached to a funding stream that does not reach libraries. Those corrections
+are recorded in the notes themselves rather than quietly absorbed.
+
 Two provisions deserve particular scrutiny and are annotated accordingly:
 
 - **Sec. 5's holiday election.** Its strongest defense is that it adds no net

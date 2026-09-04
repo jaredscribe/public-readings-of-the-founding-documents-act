@@ -178,30 +178,113 @@ selected, or accompanying instruction of a reading conducted under subsection
 > preceding or following week" — an agency interpretation, not statutory text,
 > and worth codifying expressly if this section moves.
 
-## SEC. 4. MATERIALS AT FEDERALLY FUNDED PUBLIC LIBRARIES.
+## SEC. 4. CONSTITUTION DAY MATERIALS IN LIBRARIES.
 
-**(a) In General.** — Each public library receiving Federal funds shall, on or
-about each September 17, make available to its patrons educational materials
-concerning the Constitution of the United States.
+**(a) State Plan Requirement.** — Section 9134(b) of title 20, United States
+Code, is amended —
+1. in paragraph (7), by striking "and" at the end;
+2. in paragraph (8), by striking the period at the end and inserting "; and";
+   and
+3. by adding at the end the following:
 
-**(b) Lighter Requirement Than Section 3.** — This section requires the
-availability of materials only. Nothing in this section requires a public
-library to hold a program, a reading, or an event of any kind.
+> "(9) describe how the State library administrative agency will promote the
+> observance of Constitution Day and Citizenship Day in libraries throughout
+> the State, including by making educational materials concerning the
+> Constitution of the United States available to the public on or about
+> September 17 of each year."
+
+**(b) Materials Only.** — Nothing in this section requires any library to hold
+a program, a reading, or an event of any kind.
 
 **(c) No Additional Appropriation.** — Materials made available under this
 section may consist of materials already prepared and distributed by the
 National Archives and Records Administration, the Library of Congress, or any
 Federal agency.
 
-> **[DRAFTING NOTE — funding hook needs verification.]** The intended reach is
-> public libraries receiving Federal support through the Institute of Museum
-> and Library Services, principally under the Library Services and Technology
-> Act. IMLS is the agency; LSTA is the authorizing program, and most funds
-> reach libraries as grants to State library administrative agencies rather
-> than directly. Confirm the correct statutory authority and the correct
-> description of the funding relationship before introduction. A funding
-> condition attached to the wrong program is both ineffective and
-> embarrassing.
+> **[VERIFIED 2026-09-04 — the original hook was broken; this is the rewrite.]**
+> Sec. 4 previously read "Each public library receiving Federal funds shall…"
+> That formulation assumes federal money reaches libraries. **Under the Library
+> Services and Technology Act it does not.** Funds are allotted to **State
+> library administrative agencies** — 20 U.S.C. § 9131 (population-based
+> allotments to States), § 9133(a) (the Director pays "each State library
+> administrative agency having a State plan approved"), § 9134(a)(1) (the SLAA
+> is the entity that must submit the plan). The SLAA must then spend at least
+> 96 percent of its allotment on the § 9141(a) priorities "**either directly or
+> through subgrants or cooperative agreements**" — so subgranting is
+> *permissive*. Much of the money funds statewide services (shared databases,
+> interlibrary loan, summer reading, e-content) that benefit libraries without
+> any federal award ever reaching an individual library.
+>
+> A condition keyed to libraries that "receive Federal funds" would therefore
+> be close to an empty set in many States, and would exempt precisely the
+> statewide-service States where the broadest reach was wanted.
+>
+> **The naming, for the record:** IMLS is the *agency*, established at
+> 20 U.S.C. § 9102 under the Museum and Library Services Act (20 U.S.C. ch. 72,
+> §§ 9101–9176). LSTA is the *program* — subchapter II, §§ 9121–9165. Cite the
+> subchapter as §§ 9121–9165; IMLS's own guidance says "§§ 9121-9141," which
+> covers only the Grants to States machinery.
+>
+> **Why this rewrite works.** Congress has already put an enforceable
+> behavioral condition on libraries inside this very subchapter — the
+> Children's Internet Protection Act, at 20 U.S.C. § 9134(f). It operates
+> through a **plan assurance** (§ 9134(b)(7)), a **certification in the
+> application cycle** (§ 9134(f)(4)), a **waiver valve** for States whose
+> procurement rules prevent timely certification, and **named remedies**
+> (§ 9134(f)(5): withholding, cease-and-desist, compliance agreements, with
+> recovery of funds expressly barred). Subsection (a) above copies the first of
+> those, binding every SLAA as a condition of its allotment through machinery
+> that already exists, at effectively zero administrative cost.
+>
+> **Say plainly what this does and does not do.** It reaches libraries
+> *indirectly*, through state-level programming and subaward terms. It is not
+> universal coverage, and the section-by-section should not imply otherwise. If
+> a duty running directly to individual libraries is genuinely wanted, add a
+> subsection paralleling § 9134(f) keyed to "a library described in section
+> 9122(1)(A)," with its own certification and remedies — understanding it binds
+> only libraries that actually hold an LSTA subaward.
+
+> **[DRAFTING NOTE — do not copy the Constitution Day school model here.]** It
+> is tempting to mirror Sec. 3's "each institution that receives Federal funds"
+> language. Two reasons not to. First, that provision reaches only
+> "educational institutions," which the implementing agency read as local
+> educational agencies and institutions of higher education (70 Fed. Reg.
+> 29727); no agency interpretation extending it to public libraries was found.
+> Second, **it is unenforceable** — § 111 of Pub. L. 108–447 names no enforcing
+> agency, no penalty, no certification, and no withholding remedy, and the same
+> notice states it "does not authorize funds to carry out this requirement."
+> It is, in substance, a well-observed exhortation. Copy it only if an
+> exhortation is what is wanted.
+
+> **[DRAFTING NOTE — program viability, and two things to check.]** IMLS was
+> named in Executive Order 14238 of March 14, 2025 (90 Fed. Reg. 13043), § 2(a)(iv),
+> directing listed entities to reduce to "the minimum presence and function
+> required by law." The program nonetheless survives and is operating: Congress
+> appropriated $291,800,000 to IMLS for FY2026 (Pub. L. 119–75, div. B), and
+> IMLS issued FY2026 Grants to States award guidance to SLAA chiefs on
+> December 22, 2025. Treat the hook as viable but politically contested — a
+> further argument for the plan-assurance approach, which costs nothing to
+> administer.
+>
+> Two things this draft deliberately does **not** assert, because they could
+> not be verified:
+> - **No percentage of LSTA funds subgranted to individual libraries.** The
+>   project-level data lives in IMLS's State Program Report system, which has no
+>   reachable public API, and the relevant CRS report was inaccessible. The
+>   "close to an empty set" claim above is an inference from three verified
+>   facts (§ 9141 makes subgranting permissive; IMLS says SLAAs "may" subgrant;
+>   IMLS reports ~1,500 Grants to States projects a year against ~9,000 public
+>   library administrative entities) — **not** a published figure. Do not put a
+>   percentage in supporting materials without obtaining the SPR data.
+> - **No Spending Clause case citations.** The constitutional limits on
+>   conditional federal spending are real and a drafter should have counsel
+>   address them, but the cases were not verified against primary sources
+>   during this pass and are therefore not cited here rather than cited wrongly.
+>
+> Also worth a follow-up: 20 U.S.C. § 9134(f)(1) cross-references the E-rate
+> universal-service program (47 U.S.C. § 254(h)(6)), which *does* reach
+> individual libraries directly. That may be a broader hook than LSTA
+> subawards, and was not researched.
 
 ## SEC. 5. ELECTION AMONG COMMEMORATIVE DAYS.
 
