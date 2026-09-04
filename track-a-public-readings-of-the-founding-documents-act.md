@@ -49,24 +49,39 @@ all places, against all foes, and at whatever cost."
 
 **(5)** Congress has already recognized a Federal interest in the civic
 reading of founding texts. Constitution Day and Citizenship Day is established
-in law, and educational institutions receiving Federal funds are already
-required to hold an educational program concerning the Constitution each
-September 17.
+in law; each educational institution receiving Federal funds is required to
+hold an educational program concerning the Constitution each September 17; and
+the head of each Federal agency is required to furnish that agency's employees
+with educational materials concerning the Constitution on that day.
 
-**(6)** Since January 2011, the House of Representatives has opened each new
+**(6)** Congress has imposed those requirements upon the Nation's educational
+institutions and upon the executive branch, and has imposed no comparable
+requirement upon itself.
+
+**(7)** Since January 2011, the House of Representatives has opened each new
 Congress with a reading of the Constitution aloud on the floor of the House,
 adopted by the House as a matter of its own internal rules.
 
-**(7)** A public reading is a low-cost civic act. It requires no
+**(8)** A public reading is a low-cost civic act. It requires no
 appropriation, no facility, and no personnel beyond those already present at a
 commemorative observance.
 
-> **[DRAFTING NOTE]** Finding (5) is stated in general terms because the
-> operative school-program requirement was enacted in the Consolidated
-> Appropriations Act, 2005 (Public Law 108–447), and appears as a statutory
-> note rather than in the text of section 106 of title 36 itself. Confirm the
-> exact citation and current codification before introduction — see the
-> drafting note to section 3.
+> **[VERIFIED 2026-09-04]** Findings (5) and (6) are confirmed against the
+> current Code. Section 106 of title 36 itself does only four things —
+> designates September 17, states the commemoration's purpose, authorizes a
+> Presidential proclamation, and *urges* State and local authorities to
+> observe the day. It imposes no instructional duty on anyone. The duties in
+> finding (5) come from section 111 of division J of the Consolidated
+> Appropriations Act, 2005 (Public Law 108–447), which appears as a statutory
+> note to 36 U.S.C. 106: educational institutions receiving Federal funds must
+> hold an educational **program**; each Federal agency must furnish employees
+> educational **materials**. Keep those two straight — the materials duty is
+> the executive branch's, the program duty is the schools'.
+>
+> Finding (6) follows from the same note and is the sharpest point available
+> to this bill: Congress legislated civic instruction for schools and for the
+> executive branch, and exempted itself. It is also the argument the Track B
+> resolution rests on, so the two documents reinforce each other.
 
 > **[DRAFTING NOTE]** Lincoln's 1863 Thanksgiving Proclamation, which called
 > for "humble penitence for our national perverseness and disobedience," is
@@ -87,14 +102,16 @@ of an educational institution as to the manner, setting, grade level, portion
 selected, or accompanying instruction of a reading conducted under subsection
 (a).
 
-> **[DRAFTING NOTE — amendment target must be confirmed.]** This section is
-> drafted as freestanding text because the requirement it modifies is
-> codified as a note to section 106 of title 36, United States Code, rather
-> than within that section. Before introduction, determine whether the cleaner
-> vehicle is (i) a direct amendment to the Public Law 108–447 note, or (ii)
-> new subsections added to 36 U.S.C. 106 that supersede it. This is a
-> mechanical question, not a substantive one, but getting it wrong is an easy
-> and unnecessary discredit.
+> **[DRAFTING NOTE — codification verified; vehicle still a choice.]**
+> Confirmed 2026-09-04: the requirement this section modifies is section 111
+> of division J of Public Law 108–447, carried as a statutory note to
+> 36 U.S.C. 106 rather than in that section's own text. So the *fact* is
+> settled; what remains is a drafting preference — whether to (i) amend the
+> Public Law 108–447 note directly, or (ii) add new subsections to
+> 36 U.S.C. 106 that supersede it. Option (ii) is tidier for future readers of
+> the Code and puts the substantive duty where people look for it; option (i)
+> is the smaller and less objectionable amendment. Legislative counsel should
+> pick; either works.
 
 ## SEC. 4. MATERIALS AT FEDERALLY FUNDED PUBLIC LIBRARIES.
 

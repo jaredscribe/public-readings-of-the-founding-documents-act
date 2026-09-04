@@ -34,6 +34,26 @@ aloud in the House of Representatives on Constitution Day.
 commemorating the signing of the Constitution of the United States on
 September 17, 1787;
 
+*Whereas* Congress has by law required that each educational institution
+receiving Federal funds hold an educational program on the Constitution of the
+United States on September 17 of each year, and that the head of each Federal
+agency provide the employees of that agency with educational materials
+concerning the Constitution on that day;
+
+*Whereas* Congress has thereby directed the Nation's schoolteachers to instruct
+their students in the Constitution, and directed the executive branch to
+instruct its employees in the Constitution, while directing nothing whatever
+of itself;
+
+*Whereas* a legislature that requires civic instruction of others, and
+undertakes none in its own chamber, teaches by that omission more than it
+intends;
+
+*Whereas* the House of Representatives ought to exercise moral and intellectual
+leadership in the civic education of the Nation, and can do so at no cost by
+setting before the Nation's teachers and students the example of the very
+practice it has asked of them;
+
 *Whereas* the Constitution is the instrument by which the House of
 Representatives exists, and by which each Member holds office;
 
@@ -102,3 +122,23 @@ readings, forums, or educational events in their districts on that day.
 - **Either chamber can act alone.** There is no reason to wait for the other,
   and no reason to pair this with Track A or Track C. Its independence is the
   point.
+
+- **The lead-by-example clauses are factually grounded — use them.** The
+  second and third preambular clauses describe real, current law. Section 106
+  of title 36 designates Constitution Day but imposes no instructional duty on
+  anyone; the duties come from section 111 of division J of the Consolidated
+  Appropriations Act, 2005 (Public Law 108–447), which appears as a statutory
+  note to 36 U.S.C. 106. That note requires *educational institutions
+  receiving Federal funds* to hold an **educational program**, and requires
+  each *Federal agency* to furnish its employees **educational materials**.
+  Congress imposed both obligations and exempted itself from any comparable
+  one. That asymmetry is the strongest argument in this resolution and it
+  costs nothing to make, because the remedy proposed here is a practice the
+  House already performs once every two years.
+
+  Note the division of duties precisely if the clause is ever paraphrased: the
+  **materials** requirement falls on executive agencies, and the **program**
+  requirement on schools. Stating it the other way around is an easy
+  correction for an unfriendly reader to make, and it is the sort of error
+  that costs a resolution its credibility on the one point where it is
+  strongest.

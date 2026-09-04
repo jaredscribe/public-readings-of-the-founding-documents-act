@@ -46,9 +46,14 @@ a drafting service. Passages marked
 
 flag places where the intent is settled but the exact statutory mechanics,
 citation, or amendment target still needs to be confirmed against the current
-U.S. Code before introduction. Those notes are deliberately left in the public
-text rather than hidden — a staffer should be able to see exactly which parts
-have been verified and which have not.
+U.S. Code before introduction. Where a question has since been checked and
+settled, the note is relabelled
+
+> **[VERIFIED &lt;date&gt;]**
+
+and says what was confirmed. Both kinds of note are deliberately left in the
+public text rather than hidden — a staffer should be able to see exactly which
+parts have been verified and which have not.
 
 Two provisions deserve particular scrutiny and are annotated accordingly:
 
