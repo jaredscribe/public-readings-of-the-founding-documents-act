@@ -74,6 +74,16 @@ amendment target that could not have worked, and a library funding condition
 attached to a funding stream that does not reach libraries. Those corrections
 are recorded in the notes themselves rather than quietly absorbed.
 
+A later pass found a fifth: a citation to the Statutes at Large pointed at a
+govinfo URL that does not exist. It had passed two link checks, because govinfo
+serves its "Page Not Found" page with an HTTP 200 status. Links in this
+repository are now verified by opening them and confirming they contain the
+document named — a status code is not evidence. Note also that `loc.gov`
+`/item/` and `/resource/` pages, and `constitution.congress.gov`, refuse
+automated requests: they work in a browser but will fail any checker, which is
+why citations here prefer archives.gov, govinfo.gov, nps.gov, senate.gov and
+guides.loc.gov.
+
 Two provisions deserve particular scrutiny and are annotated accordingly:
 
 - **Track A2, Sec. 3(b)'s holiday election.** Its strongest defense is that it

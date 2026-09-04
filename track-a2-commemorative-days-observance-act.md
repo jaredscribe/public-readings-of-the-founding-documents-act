@@ -92,48 +92,57 @@ total number of paid holiday hours to which a Federal employee is entitled.[^3]
 **(d) Observance.** —
 
 **(1) In General.** — The head of each Federal agency or department shall
-conduct, or provide for, a reading of the founding document associated with
+conduct, or provide for, a reading of the founding documents associated with
 each covered day, on that day and before noon.[^4]
 
-**(2) Documents.** — The founding document(s) associated with each covered day are:
+**(2) Documents.** — The founding documents associated with each covered day
+are:
 1. for Constitution Day and Citizenship Day, the Constitution of the United
    States, including its amendments;
-2. for Juneteenth National Independence Day, General Order No. 3, issued at
-   Galveston, Texas, on June 19, 1865, The Emancipation Proclamation, and the Thirteenth, Fourteenth, and Fifteenth Amendments to the
+2. for Juneteenth National Independence Day, the Emancipation Proclamation of
+   January 1, 1863; General Order No. 3, issued at Galveston, Texas, on June 19,
+   1865; and the Thirteenth, Fourteenth, and Fifteenth Amendments to the
    Constitution of the United States; and
-3. for Independence Day, the Declaration of Independence.[^5]  Optionally include Jefferson's Original Rough Draft.
+3. for Independence Day, the Declaration of Independence.[^5]
 
-**(3) Days on Which the Agency Is Closed.** — If a Federal agency or department
+**(3) Additional Texts.** — A reading conducted under this subsection may
+include such additional historical texts as the head of the agency or
+department considers appropriate, including Jefferson's original rough draft of
+the Declaration of Independence.[^6]
+
+**(4) Days on Which the Agency Is Closed.** — If a Federal agency or department
 is not open for business on a covered day, the reading required by paragraph
 (1) shall be conducted before noon on the last preceding day on which it is
 open.
 
-**(4) Participation Voluntary.** — Participation in a reading conducted under
-this subsection is voluntary but encouraged. No employee is required to attend or to read 
-except as the Agency head may direct, and the absence of any employee does not affect the reading.
+**(5) Participation.** — Attendance at a reading conducted under this
+subsection is voluntary and encouraged. No employee is required to attend, and
+the absence of any employee does not affect the reading. The head of the agency
+or department may designate employees to read, and shall designate another
+employee in place of any employee who declines to read.
 
-**(5) Excused Absence.** — An employee in a work status at the time of a
+**(6) Excused Absence.** — An employee in a work status at the time of a
 reading conducted under this subsection shall be excused, without charge to
-leave, for the period of the reading.[^6]
+leave, for the period of the reading.[^7]
 
 ## SEC. 4. NATIONAL HOLIDAY REVIEW COMMISSION.
 
 **(a) Establishment.** — There is established a National Holiday Review
 Commission to study, and report to Congress on, the federal commemorative
-calendar.[^7]
+calendar.[^8]
 
 **(b) Matters Studied.** — The Commission shall consider:
 1. which historical events and documents the United States commemorates, and
    by what means;
 2. the relationship among Memorial Day, Veterans Day, and Juneteenth National
    Independence Day, and whether the existing calendar reflects that
-   relationship coherently;[^8]
+   relationship coherently;[^9]
 3. whether additional commemorative days should be established, and whether any
    existing day should be restructured; and
 4. the historical practice, in the colonial era and in the Presidential
    proclamations of Abraham Lincoln and George Washington, of pairing days of
    thanksgiving with days of reflection on national failings, and whether any
-   civic equivalent is appropriate today.[^9]
+   civic equivalent is appropriate today.[^10]
 
 **(c) Report.** — The Commission shall submit its report not later than May 1
 of the calendar year following the date of enactment of this Act.
@@ -154,7 +163,7 @@ note) is amended:
 
 > "(3) provide the materials required by paragraph (2) in connection with the
 > reading of the Constitution required by section 3(d) of the Commemorative
-> Days Observance Act.".[^10]
+> Days Observance Act.".[^11]
 
 ---
 
@@ -171,8 +180,8 @@ imposed on the same officials in 2004, from furnishing employees materials on
 the Constitution to reading the document aloud. Sec. 5 makes the extension
 literal by amending the 2004 provision rather than legislating alongside it: the
 materials are to be handed out at the reading. Expect the cost objection
-anyway; the answer is Sec. 3(d)(3), which never requires an agency to open on a
-day it would otherwise be closed, and Sec. 3(d)(5), which is the only new
+anyway; the answer is Sec. 3(d)(4), which never requires an agency to open on a
+day it would otherwise be closed, and Sec. 3(d)(6), which is the only new
 expenditure in the bill and is measured in minutes.
 
 Sec. 4, as the lowest-controversy provision in either bill, remains the most
@@ -245,7 +254,7 @@ CRS-directive form.
     objection that it expands federal paid leave. Federal employee unions are the
     constituency most affected; (c) is written to foreclose the concern in both
     directions.<br><br>
-    One qualification, so the claim stays exactly true: Sec. 3(d)(5) does add a
+    One qualification, so the claim stays exactly true: Sec. 3(d)(6) does add a
     small amount of paid non-work time — the minutes an employee already at work
     spends attending a reading. That is excused absence, not holiday time, so it
     does not falsify subsection (c). But do not say in supporting materials that
@@ -284,11 +293,11 @@ CRS-directive form.
     at work. That became false the moment the reading became mandatory, because
     Independence Day and Juneteenth are legal public holidays on which many
     agencies are closed and nobody is present. An unfriendly reader finds that
-    contradiction quickly. Paragraph (3) cures it: on a day the agency is closed,
+    contradiction quickly. Paragraph (4) cures it: on a day the agency is closed,
     the reading moves to the last preceding open day. No agency is ever required
     to open, and no employee is recalled on holiday premium pay under
     [5 U.S.C. § 5546](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5546&num=0&edition=prelim).<br><br>
-    Two consequences of paragraph (3) that are deliberate but should not be
+    Two consequences of paragraph (4) that are deliberate but should not be
     discovered by an opponent first. It drifts the date: Juneteenth falling on a
     Sunday puts the reading on Friday June 17, two days early. The implementing
     agency's gloss on the Constitution Day school program takes the other
@@ -302,48 +311,129 @@ CRS-directive form.
     workday. Paragraph (3) needs no sequencing rule and none is drafted.<br><br>
     **Compelled speech.** A mandatory ceremonial reading conducted by the
     Government invites the objection that employees are conscripted into it.
-    Paragraphs (4) and (5) foreclose it at no cost, on the model of Track B
+    Paragraphs (5) and (6) foreclose it at no cost, on the model of Track B
     Sec. 2(b): the agency must hold the reading; no employee need attend.
-    Paragraph (5) exists so that a voluntary act is not made costly — without it,
+    Paragraph (6) exists so that a voluntary act is not made costly — without it,
     an employee at work could attend only by charging their own leave, which is a
     participation penalty dressed as a choice.<br><br>
     "Before noon" in paragraph (1) is the point of finding (8) and should not be
     softened to "during the day." The half-day was always meant to be a morning
     of reading and an afternoon of work.
 
-[^5]: **[DRAFTING NOTE — naming the documents is now unavoidable, and the
-    Juneteenth entry is a choice.]** While the reading was an "opportunity,"
-    leaving "the document associated with that day" undefined cost nothing. Once
-    it is a duty, an agency has to know what to read, and two of the three
-    answers are obvious while the third is not.<br><br>
-    General Order No. 3 is short — a single paragraph, read aloud in under a
-    minute — which is why the Thirteenth Amendment is paired with it. Together
-    they state the event and its constitutional completion. Three alternatives
-    were considered and remain available to a sponsoring office:<ul><li>the
-    **Emancipation Proclamation** of January 1, 1863, which is the document most
-    often read at Juneteenth observances. It applied to Texas by its own terms
-    but went unenforced there until the Army arrived — which is the fact
-    Juneteenth actually commemorates, and is itself the argument for General
-    Order No. 3 over the Proclamation.</li><li>**Frederick Douglass, "What to the
-    Slave Is the Fourth of July?"** (Corinthian Hall, Rochester, July 5, 1852) —
-    the most powerful text available and the one this project's advocates most
-    want read aloud, but an oration rather than a founding instrument, and far
-    too long for a morning that has an afternoon of work after it.</li><li>**All
-    three**, which is entirely defensible for a commemorative observance and
-    indefensible as a statutory command on an agency.</li></ul>The draft picks the
-    two shortest documents with the strongest legal claim to the day. Change it
-    deliberately or not at all.<br><br>
-    Two smaller points. The Thirteenth Amendment is read twice under this
-    section — once on Constitution Day as part of "the Constitution … including
-    its amendments," and once on Juneteenth. That is intended, not an oversight.
-    And an earlier draft read "founding document(s)"; the parenthetical plural is
-    unnecessary, because
-    [1 U.S.C. § 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title1-section1&num=0&edition=prelim)
-    already provides that in any Act of Congress "words importing the singular
-    include and apply to several persons, parties, or things." In operative text
-    it reads as unfinished drafting.
+[^5]: **[DRAFTING NOTE — the Juneteenth list was expanded on 2026-09-04; this is
+    what it now holds and why.]** While the reading was an "opportunity," leaving
+    "the document associated with that day" undefined cost nothing. Once it
+    became a duty, an agency had to know what to read.<br><br>
+    An earlier draft named only General Order No. 3 and the Thirteenth Amendment,
+    on the reasoning that they were the two shortest documents with the strongest
+    legal claim to the day, and it argued *against* the Emancipation Proclamation
+    — because the Proclamation applied to Texas by its own terms but went
+    unenforced there until the Army arrived, which is the fact Juneteenth
+    actually commemorates. **The drafter overruled that, and was right to.**
+    General Order No. 3 executes the Proclamation and says so on its face: "in
+    accordance with a proclamation from the Executive of the United States, all
+    slaves are free." Read the authority and then the enforcement and you have
+    the whole story; read the enforcement alone and it is a footnote to a
+    document the audience never heard. The Fourteenth and Fifteenth Amendments
+    follow the same logic, and they match the framing used elsewhere in this
+    project — the Reconstruction Amendments as a set, not the Thirteenth
+    alone.<br><br>
+    **The list is in chronological order deliberately** — Proclamation (January 1,
+    1863), General Order No. 3 (June 19, 1865), Thirteenth (1865), Fourteenth
+    (1868), Fifteenth (1870). An earlier revision had the enforcement preceding
+    the authority. If the list is ever reordered, preserve the sequence: the
+    sequence is the argument.<br><br>
+    **Cost check.** The five documents run roughly 1,490 words together — about
+    ten minutes read aloud, in line with the Declaration's ~1,340. Juneteenth is
+    not the expensive day. Constitution Day is, at roughly 7,600 words with the
+    amendments.<br><br>
+    Two smaller points. The Thirteenth, Fourteenth and Fifteenth Amendments are
+    read twice under this section — once on Constitution Day as part of "the
+    Constitution … including its amendments," and once on Juneteenth. That is
+    intended, not an oversight. And the text now reads "documents … are"
+    rather than "document(s)": [1 U.S.C. § 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title1-section1&num=0&edition=prelim) provides both that
+    "words importing the singular include and apply to several persons, parties,
+    or things" and that "words importing the plural include the singular," so the
+    plain plural is safe in both directions and the parenthetical is unnecessary.
+    Paragraph (1) was made plural to agree with it.
 
-[^6]: **[DRAFTING NOTE — the jurisdictional wrinkle got worse when (d) became a
+[^6]: **[DRAFTING NOTE — why paragraph (3) is a grant rather than a list, and a
+    verified menu for the office that uses it.]** Paragraph (3) confers
+    discretion instead of enumerating texts, because a statutory list of optional
+    readings goes stale and invites argument about what was left off it.
+    Jefferson's rough draft is named because it is the one addition the drafter
+    specifically wanted and because it is not an obvious choice: it is the
+    Declaration Congress *did not* adopt, and reading it beside the adopted text
+    — the excised denunciation of the slave trade especially — is the sharpest
+    civics lesson available on the Fourth of July.<br><br>
+    What follows is a menu for a sponsoring office or an agency, not statutory
+    text. Every link was fetched on 2026-09-04 and confirmed to contain the
+    document named — not merely to return a status code.<br><br>
+    **Constitution Day, September 17.** [The Constitution](https://www.archives.gov/founding-docs/constitution-transcript),
+    for reference. [Washington's Farewell Address](https://www.senate.gov/artandhistory/history/resources/pdf/Washingtons_Farewell_Address.pdf)
+    — lead with this one: the Senate has read it aloud in the Chamber annually
+    since the 1890s ([Senate traditions](https://www.senate.gov/about/traditions/washingtons-farewell-address.htm)),
+    which makes it the closest thing either chamber already does to what this
+    project asks for. [The Federalist](https://guides.loc.gov/federalist-papers/full-text)
+    — Nos. 10, 51 and 78 are the usual selections. [The Northwest Ordinance of
+    1787](https://www.archives.gov/milestone-documents/northwest-ordinance),
+    enacted by the Confederation Congress in the same summer the Convention
+    sat.<br><br>
+    **Juneteenth National Independence Day, June 19.** [The Emancipation
+    Proclamation](https://www.archives.gov/exhibits/featured-documents/emancipation-proclamation/transcript.html)
+    and [General Order No. 3](https://www.archives.gov/news/articles/juneteenth-original-document)
+    are required by paragraph (2); the National Archives pages carry the
+    transcriptions. So are the [Thirteenth](https://www.archives.gov/milestone-documents/13th-amendment),
+    [Fourteenth](https://www.archives.gov/milestone-documents/14th-amendment) and
+    [Fifteenth](https://www.archives.gov/milestone-documents/15th-amendment)
+    Amendments. Beyond them: [Lincoln's Second Inaugural
+    Address](https://www.nps.gov/linc/learn/historyculture/lincoln-second-inaugural.htm),
+    March 4, 1865; [the Gettysburg
+    Address](https://www.loc.gov/exhibits/gettysburg-address/ext/trans-nicolay-copy.html)
+    (Nicolay copy); and [the Civil Rights Act of
+    1866](https://www.govinfo.gov/content/pkg/STATUTE-14/pdf/STATUTE-14-Pg27.pdf),
+    14 Stat. 27, the first statute to define national citizenship after
+    emancipation.<br><br>
+    **Frederick Douglass, "What to the Slave Is the Fourth of July?"** (Corinthian
+    Hall, Rochester, July 5, 1852) belongs on either this day or Independence Day,
+    and it is **deliberately left unlinked**. No stable full text at a Federal
+    source could be verified: the National Park Service's own page for the speech
+    at the Frederick Douglass National Historic Site is a placeholder reading
+    "This page is currently being worked on," and the "Read the speech" link on
+    the Service's Underground Railroad page resolves to a university library
+    landing page rather than to the text. Do not cite either as a source for the
+    text without opening it first. This is a gap worth closing, and hosting a
+    clean transcription is something an advocacy site can do that the Government
+    currently has not.<br><br>
+    **Independence Day, July 4.** [The Declaration of
+    Independence](https://www.archives.gov/founding-docs/declaration-transcript),
+    the required text. **Jefferson's original Rough draught**, named in paragraph
+    (3) — the Library of Congress's exhibition essay on the drafting is
+    [here](https://www.loc.gov/exhibits/declara/declara3.html), and the comparison
+    that makes it worth reading aloud, including Congress's excisions, is set out
+    at [declareindependence.net](https://declareindependence.net/rough-draft.php).
+    [The Lee Resolution](https://www.archives.gov/milestone-documents/lee-resolution)
+    of June 7, 1776 — the motion the Declaration was written to justify.
+    [John Adams to Abigail Adams, July 3,
+    1776](https://www.masshist.org/database/viewer.php?item_id=102&pid=17) — the
+    letter this whole project rests on, and note which sentence comes first.
+    [Abraham Lincoln at Peoria, October 16,
+    1854](https://www.nps.gov/liho/learn/historyculture/peoriaspeech.htm), the
+    source of Track A1's Finding (3). [The Declaration of
+    Sentiments](https://www.nps.gov/wori/learn/historyculture/declaration-of-sentiments.htm),
+    Seneca Falls, July 19–20, 1848 — written on the Declaration's own frame, and
+    the clearest demonstration that the document was built to be used against the
+    country that adopted it.<br><br>
+    **Two cautions.** The **Mecklenburg Resolves** of May 31, 1775 are authentic
+    and are routinely confused with the **Mecklenburg Declaration** of May 20,
+    1775, whose authenticity is disputed. If either is used, say which one, and
+    expect to be asked. Separately: loc.gov `/item/` and `/resource/` pages, and
+    constitution.congress.gov, refuse automated requests. They are live in a
+    browser but will fail any link checker run against this repository, which is
+    why the links above prefer archives.gov, govinfo.gov, nps.gov, senate.gov and
+    guides.loc.gov.
+
+[^7]: **[DRAFTING NOTE — the jurisdictional wrinkle got worse when (d) became a
     duty.]** Sec. 3 is drafted as a holidays provision, which is why this bill
     goes to Judiciary in the Senate and Oversight in the House. Subsection (b)'s
     employee-election scheme is also leave administration, which could pull it
@@ -365,7 +455,7 @@ CRS-directive form.
     No referral precedent for an *elective* holiday entitlement was found,
     because there does not appear to be one.
 
-[^7]: **[DRAFTING NOTE — reduce this to a CRS directive if the commission is too
+[^8]: **[DRAFTING NOTE — reduce this to a CRS directive if the commission is too
     heavy an ask.]** The same report can be requested of the Congressional
     Research Service at far lower cost and with no appointments required. That is
     the more likely form for this section to survive in, and it is also the most
@@ -375,7 +465,7 @@ CRS-directive form.
     the Library of Congress — the *only* place in this whole package where those
     committees are in fact the right answer.
 
-[^8]: **[DRAFTING NOTE — subsection (b)(2) now overlaps a live proposal.]** The
+[^9]: **[DRAFTING NOTE — subsection (b)(2) now overlaps a live proposal.]** The
     drafter is separately preparing an act that would restructure the spring
     commemorative calendar directly rather than study it. If both move, decide
     which is the vehicle for the Memorial Day question: a commission that *studies*
@@ -384,14 +474,14 @@ CRS-directive form.
     conservative sequencing is to let the study report first; the drafter may
     prefer otherwise, but the choice should be deliberate.
 
-[^9]: **[DRAFTING NOTE — (b)(4) is the most sensitive item here.]** It is drafted
+[^10]: **[DRAFTING NOTE — (b)(4) is the most sensitive item here.]** It is drafted
     in civic-historical terms deliberately. The source material in this area is
     explicitly religious; the operative text must not be. Keep religious framing
     in findings as historical citation only. A study provision is the right home
     for this question, and it should not graduate into operative text without a
     separate and deliberate decision.
 
-[^10]: **[DRAFTING NOTE — this section exists to avoid the bug Track A1 flags at
+[^11]: **[DRAFTING NOTE — this section exists to avoid the bug Track A1 flags at
     its own § 111 note.]** Without it, Sec. 3(d) would command agency heads to
     conduct a Constitution Day reading while § 111(a) of
     [Pub. L. 108–447](https://www.govinfo.gov/content/pkg/PLAW-108publ447/html/PLAW-108publ447.htm)
