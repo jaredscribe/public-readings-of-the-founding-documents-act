@@ -87,14 +87,12 @@ commemorative observance.[^4]
 
 **(a) Reading Requirement.** — The educational program required of each
 educational institution receiving Federal funds on Constitution Day and
-Citizenship Day shall include a reading aloud, in the presence of assembled
-students, of the Constitution of the United States or of a substantial portion
-thereof.
+Citizenship Day shall include a reading aloud - by and in the presence of assembled
+students, faculty, and administrators, and staff - of the Constitution of the United States.
 
 **(b) Discretion Preserved.** — Nothing in this section limits the discretion
-of an educational institution as to the manner, setting, grade level, portion
-selected, or accompanying instruction of a reading conducted under subsection
-(a).[^5]
+of an educational institution as to the manner, setting, grade level, or accompanying instruction of a reading conducted under subsection
+(a).  Institutions are encouraged to subsequently accompany the reading with lectures, Q&A, symposia, and debate.[^5]
 
 ## SEC. 4. CONSTITUTION DAY MATERIALS IN LIBRARIES.
 
