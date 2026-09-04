@@ -1,53 +1,70 @@
-# Track A — The Public Readings of the Founding Documents Act
+# Track A1 — The Public Readings of the Founding Documents Act
 
 *Model bill text. Working draft — see the [status note](README.md#status-working-draft-not-reviewed-by-counsel).*
+
+> **Split 2026-09-04.** This was one bill spanning four committee
+> jurisdictions. It is now two, because the House can refer a measure to
+> several committees and **the Senate essentially cannot** — Rule XVII ¶1 sends
+> the whole measure to the committee whose subject matter "predominates," and
+> joint referral under ¶3(a) needs a motion by both the majority and minority
+> leaders. As a single bill this landed whole in Senate Judiciary on the
+> holidays hook, in front of a committee with no jurisdiction over school
+> programs or library grants.
+>
+> **This bill** keeps the civics-education sections and goes to
+> **Education and Workforce / HELP**. The holiday sections moved to
+> [Track A2, the Commemorative Days Observance Act](track-a2-commemorative-days-observance-act.md),
+> which goes to **Oversight and Government Reform / Judiciary**. Sections are
+> renumbered from 1; nothing was dropped in the split itself.
+
+> **[DRAFTING NOTE — an unresolved tension between the right target and the
+> right committee.]** Referral follows subject matter, and the statute amended
+> is strong evidence of it. That creates a conflict this draft does not
+> resolve:
+>
+> - Sec. 3's *correct* amendment target is § 111(b) of Pub. L. 108–447, which
+>   the Code carries as a note to **title 36** (*Patriotic and National
+>   Observances*) — and a title 36 amendment reads as holidays legislation,
+>   pulling the bill back toward Judiciary, which is what the split exists to
+>   avoid.
+> - Amending the **Elementary and Secondary Education Act** instead would put
+>   the bill squarely in Education/HELP, but would create a second requirement
+>   sitting alongside the untouched § 111(b) rather than fixing it.
+>
+> Sec. 4 has no such problem: it amends the Museum and Library Services Act
+> (20 U.S.C. § 9134(b)), which is both the correct target and the right
+> committee. For Sec. 3, legislative counsel should choose — possibly amending
+> § 111(b) *and* adding a conforming ESEA cross-reference so the education
+> committees have a hook. Flagged rather than silently picked.
 
 > **[VERIFIED 2026-09-04 — and the earlier note was wrong.]** Congress number,
 > bill number, and sponsor are left blank throughout. An earlier version of
 > this note named House Administration and Senate Rules and Administration as
 > the committees of jurisdiction, reasoning that they oversee the Library of
-> Congress. **That is wrong for Secs. 3, 4 and 5.** Their library jurisdiction
-> runs to the Library of Congress as a *legislative-branch institution* (House
-> Rule X cl. 1(k)(4); Senate Rule XXV ¶1(n)(13)) and does not reach schools,
-> public libraries, or federal holidays.
+> Congress. **That was wrong.** Their library jurisdiction runs to the Library
+> of Congress as a *legislative-branch institution* (House Rule X cl. 1(k)(4);
+> Senate Rule XXV ¶1(n)(13)) and does not reach schools, public libraries, or
+> federal holidays.
+>
+> **This bill goes to the education committees:**
 >
 > | Section | House | Senate |
 > |---|---|---|
-> | Sec. 3 (schools) | Education and Workforce — Rule X cl. 1(e)(6) | HELP — Rule XXV ¶1(l)(1) |
+> | Sec. 3 (schools) | Education and Workforce — Rule X cl. 1(e)(6), "Education or labor generally" | HELP — Rule XXV ¶1(l)(1) |
 > | Sec. 4 (libraries) | Education and Workforce | HELP |
-> | Sec. 5 (§ 6103 holidays) | Oversight and Government Reform — Rule X cl. 1(n)(5), "Holidays and celebrations" | Judiciary — Rule XXV ¶1(m)(7), "Holidays and celebrations" |
-> | Sec. 6 (commission) | Oversight and Government Reform | Judiciary |
-> | Sec. 6, *CRS variant only* | House Administration | Rules and Administration |
 >
-> Confirmed against actual referrals: the Juneteenth bills (S. 475 / H.R. 1320,
-> 117th Cong.) went to Senate Judiciary and House Oversight; the Museum and
-> Library Services Act of 2018 (S. 3530 / H.R. 6988, 115th Cong.) went to
-> Senate HELP and House Education and the Workforce. Committee names changed in
+> The holiday sections that used to sit here now form
+> [Track A2](track-a2-commemorative-days-observance-act.md) and go to Oversight
+> and Government Reform / Judiciary; the one place House Administration and
+> Senate Rules *are* correct is the CRS-directive variant of Track A2's
+> commission section, since CRS is part of the Library of Congress.
+>
+> Confirmed against actual referrals: the Museum and Library Services Act of
+> 2018 (S. 3530 / H.R. 6988, 115th Cong.) went to Senate HELP and House
+> Education and the Workforce; the Civics Secures Democracy Act (H.R. 1814,
+> 117th Cong.) went to House Education and Labor. Committee names changed in
 > the 119th Congress: *Oversight and Accountability* → Oversight and Government
 > Reform, *Education and the Workforce* → Education and Workforce.
-
-> **[DRAFTING NOTE — strongly consider splitting this bill in two.]** As
-> drafted it spans four committee jurisdictions, and the two chambers handle
-> that very differently. The House is built for it — Rule XII cl. 2(c) has the
-> Speaker designate a primary committee and permits additional, sequential, and
-> portion referrals: slow, but survivable. **The Senate is not.** Rule XVII ¶1
-> resolves jurisdiction "in favor of the committee which has jurisdiction over
-> the subject matter which predominates," sending the *entire* measure to one
-> committee, and ¶3(a) permits joint or sequential referral only on a motion by
-> **both** the majority and minority leaders — a rare, leadership-level act.
->
-> So the omnibus version lands whole in Senate Judiciary on the holidays hook,
-> before a committee with no jurisdiction over school programs or library
-> grants and no incentive to mark them up. Two bills — a **holidays bill**
-> (Secs. 5 and 6) and a **civics-education bill** (Secs. 3 and 4) — each draw a
-> committee that owns the subject and can move on its own timetable.
->
-> Related: referral follows subject matter, and the statute amended is strong
-> evidence of subject matter. Drafting Secs. 3 and 4 as amendments to title 36
-> (*Patriotic and National Observances*) plausibly reads them as holidays
-> legislation and pulls them back toward Judiciary. To land them in
-> Education/HELP, amend the Elementary and Secondary Education Act and the
-> Museum and Library Services Act instead.
 
 ---
 
@@ -286,147 +303,7 @@ Federal agency.
 > individual libraries directly. That may be a broader hook than LSTA
 > subawards, and was not researched.
 
-## SEC. 5. ELECTION AMONG COMMEMORATIVE DAYS.
-
-**(a) Covered Days.** — The covered days under this section are:
-1. Constitution Day and Citizenship Day, September 17.
-2. Juneteenth National Independence Day, June 19.
-3. Independence Day, July 4.
-4. Victory Day for World War II, May 8.
-
-**(b) Entitlement.** — Each Federal employee shall be entitled, with respect
-to the covered days, to **either**:
-1. any two of the covered days as full paid holidays, at the employee's
-   election; **or**
-2. all four of the covered days as paid half-days, at the employee's election.
-
-**(c) No Net Change in Paid Time Off.** — The entitlement established by
-subsection (b) is equal in total to the two full paid holidays for
-Independence Day and Juneteenth National Independence Day for which Federal
-employees are eligible as of the day before the date of enactment of this Act.
-Nothing in this section increases or decreases the total number of paid
-holiday hours to which a Federal employee is entitled.
-
-**(d) Observance.** — Each agency shall provide employees observing a covered
-day under this section with an opportunity to participate in a reading of the
-document associated with that day.
-
-> **[DRAFTING NOTE — this section carries its own defense.]** Subsection (c)
-> is the whole political argument for this section, and it is only true if
-> subsection (b) is drafted as a *fixed two-day entitlement*. If the section
-> is ever redrafted so that four half-days are added on top of the two
-> existing full holidays, the "no net new paid time off" claim becomes false
-> and the section should expect the objection that it expands Federal paid
-> leave. Federal employee unions are the constituency most affected; their
-> concern in prior drafts was benefit reduction, which subsection (c) is
-> written to foreclose in both directions.
-
-> **[VERIFIED 2026-09-04 — May 8 is still the weakest link, and the name was
-> wrong.]** Of the four covered days, Independence Day and Juneteenth National
-> Independence Day are already Federal paid holidays under 5 U.S.C. 6103(a).
-> Constitution Day and Citizenship Day is designated at 36 U.S.C. 106 but
-> carries no paid-holiday status. **May 8 has no standing in Federal law at
-> all** — it is designated in neither 5 U.S.C. 6103 nor anywhere in 36 U.S.C.
-> ch. 1 (§§ 101–148, checked in full).
->
-> **Name corrected.** Paragraph (a)(4) previously read "Victory in Europe Day."
-> No Federal instrument uses that term. Both existing proclamations are titled
-> *Victory Day for World War II* and frame the occasion as victory over
-> national socialism and fascism generally, not as a European-theater
-> observance. The paragraph now uses the Federal term. A bill naming a
-> designation that does not exist invites the objection that its drafters did
-> not check.
->
-> **Recurring in practice, not in law.** An earlier version of this note called
-> the 2025 proclamation a one-time designation. That is no longer accurate.
-> Two have issued:
-> - Proclamation 10934, *Victory Day for World War II, 2025*, signed May 7,
->   2025, [90 Fed. Reg. 20229](https://www.govinfo.gov/content/pkg/FR-2025-05-12/html/2025-08488.htm)
-> - Proclamation 11028, *Victory Day for World War II, 2026*, signed May 7,
->   2026, [91 Fed. Reg. 26891](https://www.govinfo.gov/content/pkg/FR-2026-05-12/html/2026-09506.htm)
->
-> Each proclaims one named calendar date, contains no annual-recurrence
-> language, and cites no statute — resting only on "the authority vested in me
-> by the Constitution and the laws of the United States." Two consecutive years
-> establish a practice, not an obligation. Whether May 8 is proclaimed in 2027
-> is entirely discretionary.
->
-> **Consequence.** This subsection would move May 8 from *zero* statutory
-> standing directly to paid-holiday eligibility in one step — a larger move
-> than "reshuffle" suggests, and the most likely target of objection. Sponsors
-> who want the smallest possible bill should consider dropping paragraph
-> (a)(4); the rest of the section works as a three-day election without it.
-
-> **[DRAFTING NOTE — consider a separate designation section instead.]**
-> Commemorative designation (36 U.S.C. ch. 1) and paid-holiday status
-> (5 U.S.C. 6103) are **independent axes**. Memorial Day, Columbus Day, and
-> Veterans Day appear in both; Constitution Day appears only in ch. 1. So a
-> new 36 U.S.C. § 149 designating Victory Day for World War II would require
-> no amendment to § 6103 at all, and would stand on its own if the entitlement
-> provision were stripped in markup.
->
-> That is probably the more survivable structure: give May 8 an ordinary
-> commemorative footing first, in its own section, and let the § 6103
-> entitlement question be fought separately. If a designation section is
-> added, the realistic model for a general observance is the
-> "**is requested to** issue each year a proclamation" form used by
-> §§ 116 (Memorial Day), 129 (Pearl Harbor Remembrance), and 144 (Patriot
-> Day) — not § 145's "shall," which is unique and attaches to a narrow
-> two-minutes-of-silence duty rather than to a general observance.
-
-> **[DRAFTING NOTE — the elective mechanism has no analogue, and needs its own
-> research pass.]** Subsection (b)'s "any two full days, or all four
-> half-days, at the employee's election" structure **does not resemble
-> anything in 5 U.S.C. 6103**, which is a flat, non-elective list applying
-> uniformly to every Federal employee. Federal half-days have historically
-> come from executive orders granting excused absence (the usual example being
-> Christmas Eve), not from statute. Whether § 6103 can carry an
-> employee-elective entitlement at all, and how OPM would administer it under
-> 5 C.F.R. pt. 610, is an open question this draft does not answer. It
-> deserves a dedicated look and a Legislative Counsel consultation before
-> introduction — it is the structural soundness of the section, distinct from
-> the political defense in the note above.
-
-## SEC. 6. NATIONAL HOLIDAY REVIEW COMMISSION.
-
-**(a) Establishment.** — There is established a National Holiday Review
-Commission to study, and report to Congress on, the Federal commemorative
-calendar.
-
-**(b) Matters Studied.** — The Commission shall consider:
-1. which historical events and documents the United States commemorates, and
-   by what means;
-2. the relationship among Memorial Day, Veterans Day, and Juneteenth National
-   Independence Day, and whether the existing calendar reflects that
-   relationship coherently;
-3. whether additional commemorative days should be established, and whether
-   any existing day should be restructured; and
-4. the historical practice, in the colonial era and in the Presidential
-   proclamations of Abraham Lincoln and George Washington, of pairing days of
-   thanksgiving with days of reflection on national failings, and whether any
-   civic equivalent is appropriate today.
-
-**(c) Report.** — The Commission shall submit its report not later than May 1
-of the calendar year following the date of enactment of this Act.
-
-**(d) Recommendations Only.** — The Commission's report is advisory. Nothing
-in this section alters the status of any Federal holiday.
-
-> **[DRAFTING NOTE]** If a full commission is too heavy an ask, this section
-> can be reduced to a directive to the Congressional Research Service to
-> prepare the same report, at substantially lower cost and with no
-> appointments required. That is the more likely form for this section to
-> survive in, and it is also the most plausible candidate in this bill for
-> attachment to a larger must-pass vehicle.
-
-> **[DRAFTING NOTE — subsection (b)(4) is the most sensitive item here.]** It
-> is drafted in civic-historical terms deliberately. Source material in this
-> area is explicitly religious; the operative text must not be. Keep any
-> religious framing in findings as historical citation only. A study
-> provision is the right home for this question, and it should not graduate
-> into operative text without a separate and deliberate decision.
-
-## SEC. 7. SENSE OF CONGRESS.
+## SEC. 5. SENSE OF CONGRESS.
 
 It is the sense of Congress that:
 

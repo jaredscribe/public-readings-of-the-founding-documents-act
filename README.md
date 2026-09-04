@@ -3,17 +3,33 @@
 Model legislative text for restoring the **public reading** of America's
 founding documents to the days set aside to commemorate them.
 
-This repository holds three drafts, addressed to three different bodies. They
-are independent — any one can be adopted without the others.
+This repository holds four drafts, addressed to different bodies. They are
+independent — any one can be adopted without the others.
 
 | | Document | Who can adopt it | What it needs |
 |---|---|---|---|
 | **Track C** | [Model Executive Order](track-c-executive-order.md) | The President, alone | No vote of any kind |
 | **Track B** | [Chamber Rule Resolution](track-b-chamber-rule-resolution.md) | The House or Senate, acting on itself | No presidential signature |
-| **Track A** | [The Act](track-a-public-readings-of-the-founding-documents-act.md) | Congress, by legislation | Full legislative process |
+| **Track A1** | [Public Readings of the Founding Documents Act](track-a-public-readings-of-the-founding-documents-act.md) | Congress — Education and Workforce / HELP | Full legislative process |
+| **Track A2** | [Commemorative Days Observance Act](track-a2-commemorative-days-observance-act.md) | Congress — Oversight and Government Reform / Judiciary | Full legislative process |
 
 They are listed in order of how little each requires. Track C is the cheapest
-ask; Track A is the most complete.
+ask.
+
+**Why Track A is two bills.** It began as one, spanning four committee
+jurisdictions. The House can refer a measure to several committees; the Senate
+essentially cannot — Rule XVII ¶1 sends the whole measure to the committee
+whose subject matter predominates, and joint referral needs a motion from both
+leaders. As one bill it would have landed entirely in Senate Judiciary, before
+a committee with no jurisdiction over school programs or library grants. Split,
+each half draws a committee that owns its subject.
+
+**A related proposal lives elsewhere.** Establishing May 8 as a federal
+holiday — and the restructuring of the spring commemorative calendar that
+question opens up — was removed from Track A2 and is being drafted as a
+separate act in its own repository. It is a materially more contested proposal
+than anything here, and it is kept apart deliberately so that these four
+drafts can be judged without it.
 
 ## Why
 
