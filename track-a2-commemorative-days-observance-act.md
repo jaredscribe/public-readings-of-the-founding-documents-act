@@ -118,8 +118,9 @@ open.
 **(5) Participation.** — Attendance at a reading conducted under this
 subsection is voluntary and encouraged. No employee is required to attend, and
 the absence of any employee does not affect the reading. The head of the agency
-or department may designate employees to read, and shall designate another
-employee in place of any employee who declines to read.
+or department may designate employees to read, shall designate another employee
+in place of any employee who declines to read, and if no employee accepts, shall
+conduct the reading.
 
 **(6) Excused Absence.** — An employee in a work status at the time of a
 reading conducted under this subsection shall be excused, without charge to
@@ -367,14 +368,17 @@ CRS-directive form.
     — the excised denunciation of the slave trade especially — is the sharpest
     civics lesson available on the Fourth of July.<br><br>
     What follows is a menu for a sponsoring office or an agency, not statutory
-    text. Every link was fetched on 2026-09-04 and confirmed to contain the
-    document named — not merely to return a status code.<br><br>
+    text. Every link was fetched on 2026-09-04 and opened, not merely pinged for a
+    status code; each is described below by what it actually contains, which in
+    two cases is commentary rather than the text itself. Say which you are citing
+    when you use them.<br><br>
     **Constitution Day, September 17.** [The Constitution](https://www.archives.gov/founding-docs/constitution-transcript),
     for reference. [Washington's Farewell Address](https://www.senate.gov/artandhistory/history/resources/pdf/Washingtons_Farewell_Address.pdf)
-    — lead with this one: the Senate has read it aloud in the Chamber annually
-    since the 1890s ([Senate traditions](https://www.senate.gov/about/traditions/washingtons-farewell-address.htm)),
-    which makes it the closest thing either chamber already does to what this
-    project asks for. [The Federalist](https://guides.loc.gov/federalist-papers/full-text)
+    (the full text, as the Senate publishes it) — lead with this one: the Senate has
+    read it aloud in the Chamber annually since the 1890s, which makes it the
+    closest thing either chamber already does to what this project asks for. Track
+    B's first note carries the sourcing for that tradition, including senate.gov's
+    own inconsistency about whether it began in 1893 or 1896. [The Federalist](https://guides.loc.gov/federalist-papers/full-text)
     — Nos. 10, 51 and 78 are the usual selections. [The Northwest Ordinance of
     1787](https://www.archives.gov/milestone-documents/northwest-ordinance),
     enacted by the Confederation Congress in the same summer the Convention
@@ -408,8 +412,11 @@ CRS-directive form.
     **Independence Day, July 4.** [The Declaration of
     Independence](https://www.archives.gov/founding-docs/declaration-transcript),
     the required text. **Jefferson's original Rough draught**, named in paragraph
-    (3) — the Library of Congress's exhibition essay on the drafting is
-    [here](https://www.loc.gov/exhibits/declara/declara3.html), and the comparison
+    (3). The Library of Congress's [exhibition essay on the
+    drafting](https://www.loc.gov/exhibits/declara/declara3.html) narrates how the
+    "original Rough draught" came to be and what was done to it — it is commentary,
+    **not** the text, and the Library's own item pages for the manuscript refuse
+    automated requests. The comparison
     that makes it worth reading aloud, including Congress's excisions, is set out
     at [declareindependence.net](https://declareindependence.net/rough-draft.php).
     [The Lee Resolution](https://www.archives.gov/milestone-documents/lee-resolution)
