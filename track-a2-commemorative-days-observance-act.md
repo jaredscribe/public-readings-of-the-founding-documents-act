@@ -95,13 +95,13 @@ total number of paid holiday hours to which a Federal employee is entitled.[^3]
 conduct, or provide for, a reading of the founding document associated with
 each covered day, on that day and before noon.[^4]
 
-**(2) Documents.** — The founding document associated with each covered day is:
+**(2) Documents.** — The founding document(s) associated with each covered day are:
 1. for Constitution Day and Citizenship Day, the Constitution of the United
    States, including its amendments;
 2. for Juneteenth National Independence Day, General Order No. 3, issued at
-   Galveston, Texas, on June 19, 1865, and the Thirteenth Amendment to the
+   Galveston, Texas, on June 19, 1865, The Emancipation Proclamation, and the Thirteenth, Fourteenth, and Fifteenth Amendments to the
    Constitution of the United States; and
-3. for Independence Day, the Declaration of Independence.[^5]
+3. for Independence Day, the Declaration of Independence.[^5]  Optionally include Jefferson's Original Rough Draft.
 
 **(3) Days on Which the Agency Is Closed.** — If a Federal agency or department
 is not open for business on a covered day, the reading required by paragraph
@@ -109,8 +109,8 @@ is not open for business on a covered day, the reading required by paragraph
 open.
 
 **(4) Participation Voluntary.** — Participation in a reading conducted under
-this subsection is voluntary. No employee is required to attend or to read, and
-the absence of any employee does not affect the reading.
+this subsection is voluntary but encouraged. No employee is required to attend or to read 
+except as the Agency head may direct, and the absence of any employee does not affect the reading.
 
 **(5) Excused Absence.** — An employee in a work status at the time of a
 reading conducted under this subsection shall be excused, without charge to
