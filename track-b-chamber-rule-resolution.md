@@ -30,12 +30,38 @@ one the House has repeatedly chosen, and moving it to the day that bears the
 document's name.** The House has shown five times over that it values the
 practice enough to re-adopt it. It has never yet made it a rule.
 
-> **[DRAFTING NOTE]** Drafted below for the House. For the Senate, substitute
-> "Senate" throughout, adjust the resolving clause, and remove the reference
-> to the opening-day practice in the fourth preambular clause — that practice
-> is the House's, and claiming it as the Senate's own is exactly the kind of
-> error that gets a resolution handed back. The Senate version rests on the
-> House precedent as an *example*, not as its own history.
+> **[VERIFIED 2026-09-04 — and the Senate version has a better analogy
+> available.]** Drafted below for the House. For the Senate, substitute
+> "Senate" throughout, adjust the resolving clause, and remove the reference to
+> the opening-day practice — that practice is the House's, and claiming it as
+> the Senate's own is exactly the kind of error that gets a resolution handed
+> back.
+>
+> Checked: **the Senate has never adopted any resolution or rule providing for
+> a reading of the Constitution.** Its first-day proceedings (CRS RS20722)
+> include no such reading, and senate.gov's own traditions inventory lists
+> Washington's Farewell Address as the only document read aloud in the Chamber
+> as a tradition.
+>
+> But do not tell a Senate office the idea is unprecedented there, because two
+> things are true and both help:
+>
+> 1. **The Constitution has been read aloud on the Senate floor** — by Senator
+>    Russ Feingold on March 1, 2006, during the PATRIOT Act reauthorization
+>    debate, covering the Preamble, Articles I–VII and the Bill of Rights
+>    (152 Cong. Rec. S1563–S1568). Precedent for the *act*, not the practice.
+> 2. **The Farewell Address is the analogy to lead with.** The Senate has read
+>    Washington's Farewell Address aloud in the Chamber annually — a member
+>    chosen each year, alternating parties — since the 1890s, a practice begun
+>    February 22, 1862 as a Civil War morale measure. That is a *standing
+>    annual ceremonial reading of a founding-era document by a designated
+>    member*, which is precisely what this resolution asks for. A Senate
+>    version should be pitched as extending an existing Senate tradition to a
+>    second document, not as importing a House practice.
+>
+> (senate.gov is internally inconsistent on when the Farewell reading became
+> annual — its Traditions page says 1896, a Historical Office summary says
+> 1893. Either cite the Traditions page or write "annually since the 1890s.")
 
 ---
 
@@ -138,6 +164,13 @@ readings, forums, or educational events in their districts on that day.
   and 2023; Speaker McCarthy described the 2023 reading as occurring "for the
   first time in years," which places a gap in between. The practice was begun
   by a Republican majority and has largely tracked that majority since.
+
+  Say "**five times, pursuant to the rules of the House**" if you count them.
+  The bare number is defensible only with that qualifier: there was an
+  additional reading on January 23, 2019 (116th Congress) conducted as a
+  minority-leader special-order hour rather than under the rules package, so
+  "five" is right for rules-mandated openings and wrong as a count of all
+  floor readings.
 
   Two consequences for anyone using this text. First, the overstatement is
   trivially checkable and would cost the resolution its credibility on its

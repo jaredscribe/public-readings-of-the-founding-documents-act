@@ -61,10 +61,13 @@ Two provisions deserve particular scrutiny and are annotated accordingly:
   paid time off. That defense holds *only* if the section is drafted as a
   fixed two-day entitlement rather than as additional half-days layered on
   existing holidays. The drafting has to carry the argument.
-- **Victory in Europe Day.** Unlike the other three days named in Sec. 5, VE
-  Day currently has no standing in law of any kind. Sec. 5 would give it paid-
-  holiday eligibility for the first time. This is the most attackable
-  provision in the bill and is flagged in the text rather than glossed.
+- **May 8.** Unlike the other three days named in Sec. 5, May 8 has no
+  standing in federal law of any kind — not as a paid holiday, not even as a
+  commemorative observance. Sec. 5 would move it from zero to paid-holiday
+  eligibility in one step. This is the most attackable provision in the bill
+  and is flagged in the text rather than glossed. Note also that the bill uses
+  the day's actual federal name, *Victory Day for World War II*; no federal
+  instrument uses "Victory in Europe Day."
 
 ## License: public domain (CC0 1.0)
 

@@ -2,11 +2,52 @@
 
 *Model bill text. Working draft — see the [status note](README.md#status-working-draft-not-reviewed-by-counsel).*
 
-> **[DRAFTING NOTE]** Congress number, bill number, sponsor, and referral
-> committee are left blank throughout. Likely committees of jurisdiction are
-> House Administration (which oversees the Library of Congress) and Senate
-> Rules and Administration; confirm current jurisdiction before approaching
-> any office.
+> **[VERIFIED 2026-09-04 — and the earlier note was wrong.]** Congress number,
+> bill number, and sponsor are left blank throughout. An earlier version of
+> this note named House Administration and Senate Rules and Administration as
+> the committees of jurisdiction, reasoning that they oversee the Library of
+> Congress. **That is wrong for Secs. 3, 4 and 5.** Their library jurisdiction
+> runs to the Library of Congress as a *legislative-branch institution* (House
+> Rule X cl. 1(k)(4); Senate Rule XXV ¶1(n)(13)) and does not reach schools,
+> public libraries, or federal holidays.
+>
+> | Section | House | Senate |
+> |---|---|---|
+> | Sec. 3 (schools) | Education and Workforce — Rule X cl. 1(e)(6) | HELP — Rule XXV ¶1(l)(1) |
+> | Sec. 4 (libraries) | Education and Workforce | HELP |
+> | Sec. 5 (§ 6103 holidays) | Oversight and Government Reform — Rule X cl. 1(n)(5), "Holidays and celebrations" | Judiciary — Rule XXV ¶1(m)(7), "Holidays and celebrations" |
+> | Sec. 6 (commission) | Oversight and Government Reform | Judiciary |
+> | Sec. 6, *CRS variant only* | House Administration | Rules and Administration |
+>
+> Confirmed against actual referrals: the Juneteenth bills (S. 475 / H.R. 1320,
+> 117th Cong.) went to Senate Judiciary and House Oversight; the Museum and
+> Library Services Act of 2018 (S. 3530 / H.R. 6988, 115th Cong.) went to
+> Senate HELP and House Education and the Workforce. Committee names changed in
+> the 119th Congress: *Oversight and Accountability* → Oversight and Government
+> Reform, *Education and the Workforce* → Education and Workforce.
+
+> **[DRAFTING NOTE — strongly consider splitting this bill in two.]** As
+> drafted it spans four committee jurisdictions, and the two chambers handle
+> that very differently. The House is built for it — Rule XII cl. 2(c) has the
+> Speaker designate a primary committee and permits additional, sequential, and
+> portion referrals: slow, but survivable. **The Senate is not.** Rule XVII ¶1
+> resolves jurisdiction "in favor of the committee which has jurisdiction over
+> the subject matter which predominates," sending the *entire* measure to one
+> committee, and ¶3(a) permits joint or sequential referral only on a motion by
+> **both** the majority and minority leaders — a rare, leadership-level act.
+>
+> So the omnibus version lands whole in Senate Judiciary on the holidays hook,
+> before a committee with no jurisdiction over school programs or library
+> grants and no incentive to mark them up. Two bills — a **holidays bill**
+> (Secs. 5 and 6) and a **civics-education bill** (Secs. 3 and 4) — each draw a
+> committee that owns the subject and can move on its own timetable.
+>
+> Related: referral follows subject matter, and the statute amended is strong
+> evidence of subject matter. Drafting Secs. 3 and 4 as amendments to title 36
+> (*Patriotic and National Observances*) plausibly reads them as holidays
+> legislation and pulls them back toward Judiciary. To land them in
+> Education/HELP, amend the Elementary and Secondary Education Act and the
+> Museum and Library Services Act instead.
 
 ---
 
@@ -38,9 +79,9 @@ precede the celebration he named second. Contemporary public observance of
 Independence Day has substantially retained the second and substantially lost
 the first.
 
-**(3)** In 1857, Abraham Lincoln urged Americans to "re-adopt the Declaration
-of Independence, and with it, the practices, and policy, which harmonize with
-it."
+**(3)** At Peoria, Illinois, on October 16, 1854, Abraham Lincoln urged
+Americans to "re-adopt the Declaration of Independence, and with it, the
+practices, and policy, which harmonize with it."
 
 **(4)** In 1852, Frederick Douglass described the Declaration of Independence
 as "the ring-bolt in the chain of your nation's destiny," and urged his
@@ -103,16 +144,39 @@ of an educational institution as to the manner, setting, grade level, portion
 selected, or accompanying instruction of a reading conducted under subsection
 (a).
 
-> **[DRAFTING NOTE — codification verified; vehicle still a choice.]**
-> Confirmed 2026-09-04: the requirement this section modifies is section 111
-> of division J of Public Law 108–447, carried as a statutory note to
-> 36 U.S.C. 106 rather than in that section's own text. So the *fact* is
-> settled; what remains is a drafting preference — whether to (i) amend the
-> Public Law 108–447 note directly, or (ii) add new subsections to
-> 36 U.S.C. 106 that supersede it. Option (ii) is tidier for future readers of
-> the Code and puts the substantive duty where people look for it; option (i)
-> is the smaller and less objectionable amendment. Legislative counsel should
-> pick; either works.
+> **[VERIFIED 2026-09-04 — exact citation, and a real drafting bug.]** The
+> requirement this section modifies is **§ 111(b) of Pub. L. 108–447, div. J,
+> tit. I, Dec. 8, 2004, 118 Stat. 3344**, carried as a statutory note to
+> 36 U.S.C. 106 under the heading "Educational and Training Materials for New
+> Federal Employees Concerning the U.S. Constitution." Verbatim:
+>
+> > (b) Each educational institution that receives Federal funds for a fiscal
+> > year shall hold an educational program on the United States Constitution on
+> > September 17 of such year for the students served by the educational
+> > institution.
+>
+> Section 111(c) amended § 106 only to insert the words "Constitution Day and";
+> subsections (a), (b) and (d) were never codified into § 106. Section 111 has
+> **not been amended since 2004**. Subsection (d) — "without fiscal year
+> limitation" — is what makes it permanent law rather than one-year
+> appropriations text.
+>
+> **The bug:** an earlier plan described this section as amending
+> "36 U.S.C. § 106(a)." That cannot work. § 106(a) is a bare designation
+> clause — "September 17 is designated as Constitution Day and Citizenship
+> Day." Amending it does not touch the program duty at all, and would leave
+> § 111(b)'s existing requirement standing beside a new and inconsistent
+> command. **Sec. 3 must amend or supersede § 111(b) directly**, which is how
+> it is now drafted. The same objection defeats framing Sec. 4 as a "new § 106
+> subsection."
+>
+> Useful gloss from the implementing agency (70 Fed. Reg. 29727): "educational
+> institutions" "includes but is not limited to 'local educational agencies'
+> and 'institutions of higher education'," the provision "applies to all
+> educational institutions receiving Federal funding," and where September 17
+> falls on a weekend or holiday the observance "shall be held during the
+> preceding or following week" — an agency interpretation, not statutory text,
+> and worth codifying expressly if this section moves.
 
 ## SEC. 4. MATERIALS AT FEDERALLY FUNDED PUBLIC LIBRARIES.
 
@@ -145,7 +209,7 @@ Federal agency.
 1. Constitution Day and Citizenship Day, September 17.
 2. Juneteenth National Independence Day, June 19.
 3. Independence Day, July 4.
-4. Victory in Europe Day, May 8.
+4. Victory Day for World War II, May 8.
 
 **(b) Entitlement.** — Each Federal employee shall be entitled, with respect
 to the covered days, to **either**:
@@ -174,18 +238,71 @@ document associated with that day.
 > concern in prior drafts was benefit reduction, which subsection (c) is
 > written to foreclose in both directions.
 
-> **[DRAFTING NOTE — Victory in Europe Day is the weakest link.]** Of the four
-> covered days, Independence Day and Juneteenth National Independence Day are
-> already Federal paid holidays. Constitution Day and Citizenship Day is
-> established in law but carries no paid-holiday status. **Victory in Europe
-> Day has no standing in Federal law at all** — it has been the subject of a
-> Presidential proclamation but is not a recurring designation and is not a
-> paid holiday. This subsection would therefore give VE Day paid-holiday
-> eligibility for the first time. That is a defensible policy choice but it is
-> not a reshuffle, and it should be described honestly in any section-by-
-> section analysis. Sponsors who want the smallest possible bill should
-> consider whether to drop paragraph (a)(4) entirely; the rest of the section
-> works without it as a three-day election.
+> **[VERIFIED 2026-09-04 — May 8 is still the weakest link, and the name was
+> wrong.]** Of the four covered days, Independence Day and Juneteenth National
+> Independence Day are already Federal paid holidays under 5 U.S.C. 6103(a).
+> Constitution Day and Citizenship Day is designated at 36 U.S.C. 106 but
+> carries no paid-holiday status. **May 8 has no standing in Federal law at
+> all** — it is designated in neither 5 U.S.C. 6103 nor anywhere in 36 U.S.C.
+> ch. 1 (§§ 101–148, checked in full).
+>
+> **Name corrected.** Paragraph (a)(4) previously read "Victory in Europe Day."
+> No Federal instrument uses that term. Both existing proclamations are titled
+> *Victory Day for World War II* and frame the occasion as victory over
+> national socialism and fascism generally, not as a European-theater
+> observance. The paragraph now uses the Federal term. A bill naming a
+> designation that does not exist invites the objection that its drafters did
+> not check.
+>
+> **Recurring in practice, not in law.** An earlier version of this note called
+> the 2025 proclamation a one-time designation. That is no longer accurate.
+> Two have issued:
+> - Proclamation 10934, *Victory Day for World War II, 2025*, signed May 7,
+>   2025, [90 Fed. Reg. 20229](https://www.govinfo.gov/content/pkg/FR-2025-05-12/html/2025-08488.htm)
+> - Proclamation 11028, *Victory Day for World War II, 2026*, signed May 7,
+>   2026, [91 Fed. Reg. 26891](https://www.govinfo.gov/content/pkg/FR-2026-05-12/html/2026-09506.htm)
+>
+> Each proclaims one named calendar date, contains no annual-recurrence
+> language, and cites no statute — resting only on "the authority vested in me
+> by the Constitution and the laws of the United States." Two consecutive years
+> establish a practice, not an obligation. Whether May 8 is proclaimed in 2027
+> is entirely discretionary.
+>
+> **Consequence.** This subsection would move May 8 from *zero* statutory
+> standing directly to paid-holiday eligibility in one step — a larger move
+> than "reshuffle" suggests, and the most likely target of objection. Sponsors
+> who want the smallest possible bill should consider dropping paragraph
+> (a)(4); the rest of the section works as a three-day election without it.
+
+> **[DRAFTING NOTE — consider a separate designation section instead.]**
+> Commemorative designation (36 U.S.C. ch. 1) and paid-holiday status
+> (5 U.S.C. 6103) are **independent axes**. Memorial Day, Columbus Day, and
+> Veterans Day appear in both; Constitution Day appears only in ch. 1. So a
+> new 36 U.S.C. § 149 designating Victory Day for World War II would require
+> no amendment to § 6103 at all, and would stand on its own if the entitlement
+> provision were stripped in markup.
+>
+> That is probably the more survivable structure: give May 8 an ordinary
+> commemorative footing first, in its own section, and let the § 6103
+> entitlement question be fought separately. If a designation section is
+> added, the realistic model for a general observance is the
+> "**is requested to** issue each year a proclamation" form used by
+> §§ 116 (Memorial Day), 129 (Pearl Harbor Remembrance), and 144 (Patriot
+> Day) — not § 145's "shall," which is unique and attaches to a narrow
+> two-minutes-of-silence duty rather than to a general observance.
+
+> **[DRAFTING NOTE — the elective mechanism has no analogue, and needs its own
+> research pass.]** Subsection (b)'s "any two full days, or all four
+> half-days, at the employee's election" structure **does not resemble
+> anything in 5 U.S.C. 6103**, which is a flat, non-elective list applying
+> uniformly to every Federal employee. Federal half-days have historically
+> come from executive orders granting excused absence (the usual example being
+> Christmas Eve), not from statute. Whether § 6103 can carry an
+> employee-elective entitlement at all, and how OPM would administer it under
+> 5 C.F.R. pt. 610, is an open question this draft does not answer. It
+> deserves a dedicated look and a Legislative Counsel consultation before
+> introduction — it is the structural soundness of the section, distinct from
+> the political defense in the note above.
 
 ## SEC. 6. NATIONAL HOLIDAY REVIEW COMMISSION.
 
@@ -251,7 +368,26 @@ campaign something to point at — not a realistic path to standalone
 enactment.
 
 There is precedent for the underlying subject reaching law by attachment
-rather than on its own: Constitution Day itself was established through an
-amendment to a consolidated appropriations act rather than as freestanding
-legislation. Section 6, as the lowest-controversy provision here, is the most
-plausible candidate for that route.
+rather than on its own: the Constitution Day *duties* were enacted as § 111 of
+division J of the Consolidated Appropriations Act, 2005, rather than as
+freestanding legislation.
+
+**State that precisely.** The September 17 observance itself long predates
+2004 — Citizenship Day was fixed on that date by Pub. L. 82–261 (1952) and
+Constitution Week established by Pub. L. 84–915 (1956). What rode the omnibus
+was the *rename* to "Constitution Day and Citizenship Day" and the *new duties*
+on agencies and schools, not the day. Saying "Constitution Day only became law
+as a rider" is an overstatement and is easily corrected by anyone who checks.
+
+Section 6, as the lowest-controversy provision here, is the most plausible
+candidate for that route.
+
+> **[DRAFTING NOTE — the "Byrd amendment" attribution is unconfirmed.]** This
+> provision is often credited to Senator Robert Byrd. That the provision exists
+> and where it sits are proven from the public law and the Code note; the
+> attribution is not. CRS Report R48174, the authoritative congressional fact
+> sheet on this observance, walks the legislative history and never mentions
+> Byrd, and the vehicle emerged from conference — so floor amendment versus
+> conference insertion is unresolved. Write "enacted inside an omnibus
+> appropriations act" unless someone checks the Congressional Record for
+> November 2004.
