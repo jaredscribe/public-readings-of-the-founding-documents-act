@@ -74,19 +74,17 @@ amendment target that could not have worked, and a library funding condition
 attached to a funding stream that does not reach libraries. Those corrections
 are recorded in the notes themselves rather than quietly absorbed.
 
-Two provisions deserve particular scrutiny and are annotated accordingly:
+One provision deserves particular scrutiny and is annotated accordingly:
 
-- **Sec. 5's holiday election.** Its strongest defense is that it adds no net
-  paid time off. That defense holds *only* if the section is drafted as a
-  fixed two-day entitlement rather than as additional half-days layered on
-  existing holidays. The drafting has to carry the argument.
-- **May 8.** Unlike the other three days named in Sec. 5, May 8 has no
-  standing in federal law of any kind — not as a paid holiday, not even as a
-  commemorative observance. Sec. 5 would move it from zero to paid-holiday
-  eligibility in one step. This is the most attackable provision in the bill
-  and is flagged in the text rather than glossed. Note also that the bill uses
-  the day's actual federal name, *Victory Day for World War II*; no federal
-  instrument uses "Victory in Europe Day."
+- **Track A2, Sec. 3's holiday election.** Its strongest defense is that it
+  adds no net paid time off. That defense holds *only* if the section is
+  drafted as a fixed two-day-equivalent entitlement rather than as additional
+  half-days layered on existing holidays. The drafting has to carry the
+  argument.
+
+A note on naming, for anyone following the May 8 proposal to the separate
+repository described above: it uses the day's actual federal name, *Victory
+Day for World War II*. No federal instrument uses "Victory in Europe Day."
 
 ## License: public domain (CC0 1.0)
 
