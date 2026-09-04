@@ -2,9 +2,7 @@
 
 *Model bill text. Working draft — see the [status note](README.md#status-working-draft-not-reviewed-by-counsel).*
 
-> **Split from Track A1 on 2026-09-04.** These sections were Secs. 5 and 6 of
-> the Public Readings of the Founding Documents Act. They are here because
-> federal-holiday jurisdiction belongs to **House Oversight and Government
+> Federal-holiday jurisdiction belongs to **House Oversight and Government
 > Reform** (Rule X cl. 1(n)(5), "Holidays and celebrations") and **Senate
 > Judiciary** (Rule XXV ¶1(m)(7), same words) — not to the education committees
 > that take Track A1. Confirmed against the referral of the Juneteenth bills
@@ -14,14 +12,6 @@
 >
 > The name is a placeholder and free to change; it is CC0 like everything else
 > here.
-
-> **May 8 was removed from this bill on 2026-09-04, at the drafter's direction,
-> and moved to its own proposal.** It was the most attackable provision here —
-> the only covered day with no standing in federal law of any kind. Establishing
-> it, together with the larger restructuring of the spring commemorative
-> calendar that question opens up, is now a separate act. That keeps this bill
-> to a clean, provably-neutral proposition and isolates the contested material
-> where it can be argued on its own merits.
 
 ---
 
@@ -60,6 +50,13 @@ most meaningfully observe.
 no facility, and no personnel beyond those already present at a commemorative
 observance.
 
+**(5)** If no politician, political appointtees, or other public employees report to work on a holiday, 
+there will be a lack of intellectual and moral leadership in the observance of the holiday.
+
+**(6)** If all politicians, political appointees, and other public employees work on holidays,
+then they are likely to neglect remembrance of the special character of the day, and will be inclined to
+treat it as any other.  
+
 ## SEC. 3. ELECTION AMONG COMMEMORATIVE DAYS.
 
 **(a) Covered Days.** — The covered days under this section are:
@@ -81,9 +78,10 @@ which Federal employees are eligible as of the day before the date of
 enactment of this Act. Nothing in this section increases or decreases the
 total number of paid holiday hours to which a Federal employee is entitled.[^1]
 
-**(d) Observance.** — Each agency shall provide employees observing a covered
-day under this section with an opportunity to participate in a reading of the
-document associated with that day.[^2][^3]
+**(d) Observance.** — Each agency and office shall conduct a reading of the
+founding document(s) associated with that day, [^2][^3] before noon. 
+The agency shall provide employees observing a covered
+half-day under this section with an opportunity to participate. 
 
 ## SEC. 4. NATIONAL HOLIDAY REVIEW COMMISSION.
 
