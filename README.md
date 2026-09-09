@@ -26,10 +26,21 @@ each half draws a committee that owns its subject.
 
 **A related proposal lives elsewhere.** Establishing May 8 as a federal
 holiday — and the restructuring of the spring commemorative calendar that
-question opens up — was removed from Track A2 and is being drafted as a
-separate act in its own repository. It is a materially more contested proposal
-than anything here, and it is kept apart deliberately so that these four
-drafts can be judged without it.
+question opens up — was removed from Track A2 and now lives in its own
+repository as the
+[Spring Holidays Reform Act](https://github.com/jaredscribe/spring-holidays-reform-act).
+That bill establishes **Victory in World War II Memorial Day** on May 8,
+repeals Memorial Day, and gives Juneteenth a statutory observance section. It
+is a materially more contested proposal than anything here — it is the only
+one that abolishes something — and it is kept apart deliberately so that these
+four drafts can be judged without it.
+
+How the two packages fit together, if the Spring Act moves, is worked out in
+[a brainstorming memo](brainstorm-may-8-sequencing-and-readings.md): when
+Congress should take the Spring Act up relative to Track A2's commission, what
+adding May 8 does to Track A2's holiday arithmetic, and what should be read
+aloud on the day. That memo is a working document, not a draft for
+circulation.
 
 ## Why
 
@@ -106,17 +117,66 @@ The Office of the Legislative Counsel's own style is the long form
 convert these on the way to introduction. The short form is used here because
 these documents are read far more often than they are introduced.
 
-A note on naming, for anyone following the May 8 proposal to the separate
-repository described above: it uses the day's actual federal name, *Victory
-Day for World War II*. No federal instrument uses "Victory in Europe Day."
+**A note on naming**, for anyone following the May 8 proposal to the separate
+repository described above. No federal instrument uses "Victory in Europe
+Day." The federal name is *Victory Day for World War II*, from
+[Proclamation 10934 of May 7, 2025](https://www.govinfo.gov/content/pkg/FR-2025-05-12/pdf/2025-08488.pdf)
+(90 Fed. Reg. 20229) — a single-year proclamation, not a recurring designation
+and not a legal public holiday. The Spring Holidays Reform Act nonetheless
+calls its day **Victory in World War II Memorial Day**, because that bill also
+repeals Memorial Day and the day has to carry the memorial function. Use the
+bill's name when writing about the bill and the proclamation's name when
+writing about current federal practice; they are not the same thing.
 
-## License: public domain (CC0 1.0)
+## License
 
-Released into the public domain under [CC0 1.0 Universal](LICENSE). No
-permission is needed to copy this, introduce it, rename it, rewrite it, strike
-half of it, or put someone else's name on it. That is the intended use.
+Two licenses, split along one line: **the instruments are public domain, the
+scholarship around them is share-alike.**
 
-If it is useful, use it. Attribution is welcome but not required.
+**Public domain — [CC0 1.0 Universal](LICENSE).** Everything meant to be
+adopted by a legislature or signed by an executive:
+
+- the text of the proposed bills (Tracks A1 and A2),
+- the chamber rule resolution (Track B),
+- the executive order (Track C),
+- the draft letters, and
+- candidate statutory text set in fenced blocks inside the working memos.
+
+In each track document that is everything *above* the **Drafting notes**
+heading — the operative text and its preamble, including the `[^n]` footnote
+markers, which are only pointers. No permission is needed to copy it,
+introduce it, rename it, rewrite it, strike half of it, or put someone else's
+name on it. That is the intended use. If it is useful, use it. Attribution is
+welcome but not required.
+
+**Share-alike — [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).**
+The footnotes and the research: the **Drafting notes** section of each track
+document — the `[^n]` notes themselves — and any other research, analysis, or
+commentary in this repository. Reuse it freely, but credit it and license what
+you build from it the same way. That is a condition of the license, not a
+courtesy.
+
+The `LICENSE` file at the root of this repository is the CC0 deed only; the
+CC BY-SA 4.0 terms are at the link above.
+
+### Draft letters
+
+The draft letters are CC0 like the rest of the instruments — the letter text,
+that is; the notes for the sender that accompany each one are research and
+commentary, and carry CC BY-SA 4.0 with everything else in that tier. Each
+letter ends with this footer, placed at the foot of the letter itself rather
+than under the notes:
+
+```
+Drafted from the model documents at https://declareindependence.net and
+https://github.com/jaredscribe/public-readings-of-the-founding-documents-act
+Text released to the public domain (CC0 1.0).
+```
+
+Plain text and bare URLs, because letters get printed and pasted into email
+clients that will not render a markdown link. The footer is a courtesy the
+drafts ship with, not a license condition — CC0 requires no attribution, and
+anyone sending a letter may delete it.
 
 ## Background
 
