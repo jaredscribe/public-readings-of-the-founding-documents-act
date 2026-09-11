@@ -115,12 +115,11 @@ is not open for business on a covered day, the reading required by paragraph
 (1) shall be conducted before noon on the last preceding day on which it is
 open.
 
-**(5) Participation.** — Attendance at a reading conducted under this
-subsection is voluntary and encouraged. No employee is required to attend, and
-the absence of any employee does not affect the reading. The head of the agency
-or department may designate employees to read, shall designate another employee
-in place of any employee who declines to read, and if no employee accepts, shall
-conduct the reading.
+**(5) Participation.** — The head of the agency or department shall determine
+employee participation in a reading conducted under this subsection. The head
+may designate employees to read, shall designate another employee in place of
+any employee who declines to read, and if no employee accepts, shall conduct
+the reading. The absence of any employee does not affect the reading.
 
 **(6) Excused Absence.** — An employee in a work status at the time of a
 reading conducted under this subsection shall be excused, without charge to
@@ -310,13 +309,20 @@ CRS-directive form.
     otherwise. Second, the covered days are months apart (June 19, July 4,
     September 17), so no two readings can ever be pushed onto the same preceding
     workday. Paragraph (3) needs no sequencing rule and none is drafted.<br><br>
-    **Compelled speech.** A mandatory ceremonial reading conducted by the
-    Government invites the objection that employees are conscripted into it.
-    Paragraphs (5) and (6) foreclose it at no cost, on the model of Track B
-    Sec. 2(b): the agency must hold the reading; no employee need attend.
-    Paragraph (6) exists so that a voluntary act is not made costly — without it,
-    an employee at work could attend only by charging their own leave, which is a
-    participation penalty dressed as a choice.<br><br>
+    **Compelled speech, and why paragraph (5) does not answer it in terms.** A
+    mandatory ceremonial reading conducted by the Government invites the
+    objection that employees are conscripted into it. An earlier draft
+    foreclosed that objection by declaring attendance "voluntary and
+    encouraged"; that language was struck. A reading every employee is free to
+    skip is a reading the indifferent agency will hold in an empty room and
+    report as compliance, which is the failure this bill exists to correct.
+    Paragraph (5) therefore says only who decides — the agency head — and
+    leaves the weight of that decision to the head, to agency counsel, and
+    ultimately to a court. The omission is deliberate and should not be
+    "clarified" back in by a drafting office. Paragraph (6) does the work that
+    the voluntariness language used to do: an employee at work is excused for
+    the reading without charge to leave, so attending costs nothing and the
+    expectation carries no penalty dressed as a choice.<br><br>
     "Before noon" in paragraph (1) is the point of finding (8) and should not be
     softened to "during the day." The half-day was always meant to be a morning
     of reading and an afternoon of work.

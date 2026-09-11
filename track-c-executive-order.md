@@ -41,17 +41,16 @@ This order directs the executive branch to resume it.
 
 ### Sec. 2. Constitution Day Readings.
 
-**(a)** On September 17 of each year, or on the next business day thereafter,
-each executive department and agency shall conduct a reading aloud of the
-Constitution of the United States, or of a substantial portion thereof, open
-to the employees of that department or agency.
+**(a)** On September 17 of each year, or, if the department or agency is not
+open for business on that day, on the last business day preceding it, each
+executive department and agency shall conduct a reading aloud of the
+Constitution of the United States, including its amendments, open to the
+employees of that department or agency.
 
 **(b)** The head of each department or agency shall determine the manner,
-setting, duration, and portion selected, and may satisfy this section through
-a single reading, multiple readings by component or location, or
+setting, and employee participation, and may satisfy this section
+through a single reading, multiple readings by component or location, or
 participation in a joint reading with another department or agency.
-
-**(c)** Participation by employees is voluntary.
 
 ### Sec. 3. Other Commemorative Days.
 
@@ -101,13 +100,27 @@ officers, employees, or agents, or any other person.
   difficult to characterize as partisan — a reading of the Constitution has no
   obvious opposing constituency.
 
-- **Section 5 is the whole answer to the only likely objection.** An EO that
+- **Section 5 is the whole answer to the cost objection.** An EO that
   costs nothing and displaces no agency function is hard to refuse on
   management grounds, so the text says so explicitly rather than leaving it to
   be inferred.
 
-- **Section 2(c) matters.** Voluntary participation avoids any question of
-  compelled ceremonial activity by Federal employees.
+- **Section 2 is deliberately silent on whether attendance is required.** The
+  order commands the agency to hold the reading and leaves employee
+  participation to the head of the department or agency, under section 2(b),
+  subject to whatever construction agency counsel and the courts give it. An
+  express grant of permission to skip it invites an observance nobody attends;
+  an express command to attend invites a compelled-speech objection. Section
+  6(c) already forecloses a private right of action either way.
+
+- **Section 2(a) requires the whole Constitution, not a portion of it.** An
+  earlier draft offered "or of a substantial portion thereof"; that option was
+  struck, on the same reasoning recorded at footnote 5 of
+  [Track A](track-a-public-readings-of-the-founding-documents-act.md) — a
+  commemorative reading that may be satisfied by an excerpt will be satisfied
+  by the Preamble. The full text with its amendments runs roughly 7,600 words;
+  the House read it aloud on the floor in 66 minutes in 2013, which is the
+  order of magnitude an agency should plan for.
 
 - **Section 3 is deliberately discretionary.** Making Juneteenth and
   Independence Day readings mandatory would multiply the objections without

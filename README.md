@@ -106,9 +106,12 @@ Two provisions deserve particular scrutiny and are annotated accordingly:
   this repository that commands rather than permits, and it commands the
   executive branch. It was rewritten on 2026-09-04 from an offer into a duty;
   the notes at that subsection set out what the change required — a bounded
-  addressee, a rule for days the agency is closed, express voluntariness for
-  employees, and a conforming amendment so the new duty does not sit beside the
-  untouched 2004 one.
+  addressee, a rule sending the reading to the *preceding* open day when the
+  agency is closed, and a conforming amendment so the new duty does not sit
+  beside the untouched 2004 one. Express voluntariness for employees was part
+  of that rewrite and was struck again on 2026-09-10: paragraph (5) now says
+  only that the agency head decides participation, and says nothing about
+  whether an employee may decline. That silence is deliberate.
 
 **Citation form.** Code citations throughout are given in short form —
 `36 U.S.C. § 106`, `1 U.S.C. § 1` — including inside operative bill text.
