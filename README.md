@@ -152,15 +152,20 @@ introduce it, rename it, rewrite it, strike half of it, or put someone else's
 name on it. That is the intended use. If it is useful, use it. Attribution is
 welcome but not required.
 
-**Share-alike — [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).**
+**Share-alike — [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/),
+[full text](LICENSE-CC-BY-SA-4.0.txt).**
 The footnotes and the research: the **Drafting notes** section of each track
 document — the `[^n]` notes themselves — and any other research, analysis, or
 commentary in this repository. Reuse it freely, but credit it and license what
 you build from it the same way. That is a condition of the license, not a
 courtesy.
 
-The `LICENSE` file at the root of this repository is the CC0 deed only; the
-CC BY-SA 4.0 terms are at the link above.
+Both deeds ship in the tree: [`LICENSE`](LICENSE) is CC0 1.0, and
+[`LICENSE-CC-BY-SA-4.0.txt`](LICENSE-CC-BY-SA-4.0.txt) is the full CC BY-SA 4.0
+text. GitHub's license detector reports only the first as *the* repository
+license, because it reads one file; the second governs the commentary tier no
+less for that. A deed carried as a hyperlink lasts only as long as someone
+else's server, which is why both are files here.
 
 ### Draft letters
 
@@ -186,4 +191,4 @@ anyone sending a letter may delete it.
 The legal and political analysis these drafts derive from — statutory
 landscape, precedent, sequencing, and the objections each track has to survive
 — is maintained separately at
-[declareindependence.net](https://declareindependence.net/legislation-advocacy.php).
+[declareindependence.net](https://declareindependence.net/legislation-advocacy).

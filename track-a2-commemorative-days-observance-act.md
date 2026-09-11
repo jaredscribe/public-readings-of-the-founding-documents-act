@@ -424,7 +424,7 @@ CRS-directive form.
     **not** the text, and the Library's own item pages for the manuscript refuse
     automated requests. The comparison
     that makes it worth reading aloud, including Congress's excisions, is set out
-    at [declareindependence.net](https://declareindependence.net/rough-draft.php).
+    at [declareindependence.net](https://declareindependence.net/rough-draft).
     [The Lee Resolution](https://www.archives.gov/milestone-documents/lee-resolution)
     of June 7, 1776 — the motion the Declaration was written to justify.
     [John Adams to Abigail Adams, July 3,
