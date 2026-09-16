@@ -142,7 +142,8 @@ adopted by a legislature or signed by an executive:
 - the text of the proposed bills (Tracks A1 and A2),
 - the chamber rule resolution (Track B),
 - the executive order (Track C),
-- the draft letters, and
+- the draft letters,
+- the printable [handbills](handbills/), and
 - candidate statutory text set in fenced blocks inside the working memos.
 
 In each track document that is everything *above* the **Drafting notes**
@@ -185,6 +186,14 @@ Plain text and bare URLs, because letters get printed and pasted into email
 clients that will not render a markdown link. The footer is a courtesy the
 drafts ship with, not a license condition — CC0 requires no attribution, and
 anyone sending a letter may delete it.
+
+### Handbills
+
+[`handbills/`](handbills/) holds print-ready PDFs for public readings, starting
+with a card and a poster for Constitution Day 2026 at the U.S. Capitol. They are
+CC0, so change the date and place and print them for your own reading. The
+typefaces embedded in them stay under the SIL Open Font License, and
+[`handbills/README.md`](handbills/README.md) gives the print settings.
 
 ## Background
 
