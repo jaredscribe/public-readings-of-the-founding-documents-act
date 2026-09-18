@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Constitution Week Card</title>
+<link rel="stylesheet" href="handbill.css">
+<style>
+  /* Quarter-letter, so four cards tile a letter sheet: a copy shop charges by
+     the printed side, and this size costs a quarter of a 4x6 printed alone. */
+  @page { size: 4.25in 5.5in; margin: 0; }
+  .page { width: 4.25in; height: 5.5in; }
+  .frame { inset: 0.18in; }
+  .frame::after { inset: 2.5pt; }
+  .content { inset: 0.3in 0.32in 0.26in; }
+  .texture { height: 1.5in; left: 0.22in; right: 0.22in; }
+  .texture.top { top: 0.22in; }
+
+  /* front */
+  .kicker { font-size: 9pt; text-align: center; }
+  .front .wtp { display: block; width: 3.3in; margin: 0.1in auto 0.02in; }
+  .preamble { font-size: 8pt; text-align: center; color: var(--ink-muted); }
+  .read { font-size: 21pt; line-height: 1.02; text-align: center; font-weight: 700; margin-top: 0.16in; }
+  .read em { color: var(--red); font-style: normal; }
+  .when { margin-top: 0.14in; text-align: center; }
+  .when .on { font-size: 10pt; letter-spacing: 0.12em; }
+  .when .dates { font-size: 25pt; font-weight: 700; line-height: 1.05; margin: 0.01in 0; white-space: nowrap; }
+  .when .dates .dnum { font-size: 18pt; }
+  .when .label { font-size: 12pt; font-weight: 600; color: var(--red); letter-spacing: 0.02em; }
+  .where { text-align: center; margin-top: auto; font-size: 14pt; line-height: 1.1; }
+  .where small { display: block; font-size: 9.5pt; color: var(--ink-muted); margin-top: 1pt; }
+  .attest { font-size: 7.6pt; line-height: 1.25; text-align: center; color: var(--ink-muted); margin: 0.16in 0.1in 0; }
+  .welcome { font-size: 9pt; text-align: center; margin-top: auto; font-weight: 600; }
+  .front .stars { font-size: 7pt; margin: 0.07in 0 0.03in; }
+  .front .foot { text-align: center; font-size: 10pt; }
+
+  /* back */
+  .back h2 { font-size: 13.5pt; text-align: center; font-weight: 700; line-height: 1.05; }
+  .back .sub { font-size: 8pt; text-align: center; color: var(--ink-muted); margin: 0.04in 0 0.09in; line-height: 1.2; }
+  .ask { display: flex; gap: 0.08in; align-items: flex-start; margin-bottom: 0.13in; }
+  .ask .num { width: 14pt; height: 14pt; font-size: 8pt; margin-top: 1pt; }
+  .ask .body { flex: 1; font-size: 8.4pt; line-height: 1.2; }
+  .ask .body b { font-size: 9.3pt; display: block; margin-bottom: 1pt; line-height: 1.08; }
+  .ask .body .url { font-size: 7pt; color: var(--navy-soft); display: block; margin-top: 2pt; }
+  .ask .qr { width: 0.85in; flex: none; }
+  .phone { font-weight: 700; white-space: nowrap; }
+  .footrow { margin-top: auto; display: flex; gap: 0.1in; align-items: center; border-top: 0.6pt solid var(--red); padding-top: 0.07in; }
+  .footrow .qr { width: 0.56in; flex: none; }
+  .back .foot { font-size: 10.5pt; }
+  .back .mission { font-size: 6.6pt; line-height: 1.18; text-align: left; margin-top: 1pt; }
+</style>
+</head>
+<body>
+
+<!-- FRONT -->
+<section class="page front">
+  <div class="texture top"></div>
+  <div class="frame"></div>
+  <div class="content">
+    <div class="kicker smallcaps">Constitution Week &middot; 1787 &ndash; 2027</div>
+    <img class="wtp" src="assets/we-the-people.png" alt="We the People, in the engrossed hand of the 1787 Constitution">
+    <div class="preamble italic">of the United States, in Order to form a more perfect Union&hellip;</div>
+
+    <div class="read">Read the Constitution<br><em>Aloud</em></div>
+
+    <div class="when">
+      <div class="on smallcaps">On</div>
+      <div class="dates">September <span class="dnum">17&ndash;23</span></div>
+      <div class="label">Constitution Week</div>
+    </div>
+
+    <div class="where">
+      On the Capitol East Steps
+      <small>Washington, D.C.</small>
+    </div>
+
+    <div class="attest italic">&ldquo;done in Convention by the Unanimous Consent of the States present the Seventeenth Day of September in the Year of our Lord one thousand seven hundred and Eighty seven&hellip;&rdquo;</div>
+
+    <div class="welcome">Free, public, and non-partisan. All are welcome.</div>
+    <div class="stars">&#9733; &#9733; &#9733;</div>
+    <div class="foot url">declareindependence.net/constitution-week</div>
+  </div>
+</section>
+
+<!-- BACK -->
+<section class="page back">
+  <div class="frame"></div>
+  <div class="content">
+    <h2>Three ways to keep it<br>being read</h2>
+    <p class="sub">Federal law has set September 17&ndash;23 apart as Constitution Week since 1956, and has required federally funded schools to teach the Constitution every September&nbsp;17 since 2004. Nobody is asked to read it out loud.</p>
+
+    <div class="ask">
+      <span class="num">1</span>
+      <div class="body">
+        <b>Let Congress read it on the House and Senate floor.</b>
+        Ask your Representative and Senators to read the Constitution aloud during Constitution Week, and to make it a standing rule of their chamber.
+        Capitol switchboard: <span class="phone">(202) 224-3121</span>
+      </div>
+    </div>
+
+    <div class="ask">
+      <span class="num">2</span>
+      <div class="body">
+        <b>Sign the petition for an executive action.</b>
+        Making a reading the duty of every federal department, bureau, office and agency&nbsp;&mdash; starting in the Oval Office.
+        <span class="url">change.org/readconstitutionaloud</span>
+      </div>
+      <span class="qr"><img src="assets/qr-petition.svg" alt=""></span>
+    </div>
+
+    <div class="ask">
+      <span class="num">3</span>
+      <div class="body">
+        <b>Introduce and support the bill.</b>
+        The <i>Public Readings of the Founding Documents Act</i>, and its companion the <i>Commemorative Days Observance Act</i>. Both are drafted, in the public domain, and free for any member to introduce.
+        <span class="url">github.com/jaredscribe/<br>public-readings-of-the-<br>founding-documents-act</span>
+      </div>
+      <span class="qr"><img src="assets/qr-repo.svg" alt=""></span>
+    </div>
+
+    <div class="footrow">
+      <span class="qr"><img src="assets/qr-constitution-week.svg" alt=""></span>
+      <div>
+        <div class="foot url">declareindependence.net/constitution-week</div>
+        <p class="mission">Declareindependence.net is a non-partisan educational and civic action resource committed to historic commemoration with honesty, accuracy, and equity.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script>
+  /* ?side=front or ?side=back shows one side only, for cards-4up-letter.html */
+  const side = new URLSearchParams(location.search).get("side");
+  if (side) document.querySelectorAll(".page:not(." + side + ")").forEach(el => el.remove());
+  if (side) document.documentElement.classList.add("embedded");
+</script>
+</body>
+</html>

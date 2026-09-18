@@ -143,7 +143,7 @@ adopted by a legislature or signed by an executive:
 - the chamber rule resolution (Track B),
 - the executive order (Track C),
 - the draft letters,
-- the printable [handbills](handbills/), and
+- the printable [handbills](print/), and
 - candidate statutory text set in fenced blocks inside the working memos.
 
 In each track document that is everything *above* the **Drafting notes**
@@ -189,11 +189,17 @@ anyone sending a letter may delete it.
 
 ### Handbills
 
-[`handbills/`](handbills/) holds print-ready PDFs for public readings, starting
-with a card and a poster for Constitution Day 2026 at the U.S. Capitol. They are
-CC0, so change the date and place and print them for your own reading. The
-typefaces embedded in them stay under the SIL Open Font License, and
-[`handbills/README.md`](handbills/README.md) gives the print settings.
+[`print/`](print/) holds print-ready handbills for public readings — a card and a
+poster for Constitution Week (September 17–23), and the pair printed for
+Constitution Day 2026 at the U.S. Capitol — with the HTML and CSS each PDF was
+rendered from, and a README per event giving the print settings. They are CC0:
+change the date and the place and print them for your own reading. The typefaces
+embedded in them stay under the SIL Open Font License, whose text ships beside
+them.
+
+The same tree is served at
+[declareindependence.net/print/](https://declareindependence.net/print/), which
+is the easier place to download a single PDF.
 
 ## Background
 

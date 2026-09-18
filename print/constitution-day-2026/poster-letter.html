@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Constitution Day Poster</title>
+<link rel="stylesheet" href="handbill.css">
+<style>
+  @page { size: letter; margin: 0; }
+  .page { width: 8.5in; height: 11in; }
+  .frame { inset: 0.35in; border-width: 2.4pt; }
+  .frame::after { inset: 5pt; border-width: 0.9pt; }
+  .content { inset: 0.6in 0.68in 0.56in; }
+  .texture { height: 3in; left: 0.4in; right: 0.4in; }
+  .texture.top { top: 0.4in; }
+
+  .kicker { font-size: 16pt; text-align: center; }
+  .wtp { width: 5.9in !important; margin: 0.12in auto 0; }
+  .preamble { font-size: 13pt; text-align: center; color: var(--ink-muted); }
+  .hear { font-size: 34pt; line-height: 1; text-align: center; font-weight: 600; margin-top: 0.16in; white-space: nowrap; }
+  .hear em { color: var(--red); }
+  .when { text-align: center; margin-top: 0.1in; line-height: 1; }
+  .when .date { font-size: 40pt; font-weight: 700; }
+  .when .date .day { font-family: "IM Fell English SC", serif; font-weight: 400; font-size: 27pt; letter-spacing: 0.08em; vertical-align: 0.12em; }
+  .when .time { font-size: 28pt; font-weight: 600; color: var(--red); margin-top: 0.02in; }
+  .where { text-align: center; font-size: 23pt; margin-top: 0.1in; line-height: 1.1; }
+  .where small { display: block; font-size: 13.5pt; color: var(--ink-muted); margin-top: 2pt; }
+  .attest { font-size: 11pt; text-align: center; color: var(--ink-muted); margin: 0.1in 0.5in 0; line-height: 1.25; }
+
+  .asks-head { margin-top: auto; display: flex; align-items: center; gap: 0.18in; }
+  .asks-head .rule { flex: 1; border-top: 0.9pt solid var(--red); }
+  .asks-head h2 { font-size: 21pt; font-weight: 700; white-space: nowrap; }
+  .asks-sub { text-align: center; font-size: 11pt; color: var(--ink-muted); margin: 0.02in 0.3in 0.12in; line-height: 1.25; }
+
+  .asks { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.28in; }
+  .ask { display: flex; flex-direction: column; align-items: center; text-align: center; }
+  .ask .num { width: 22pt; height: 22pt; font-size: 12pt; margin-bottom: 0.06in; }
+  .ask b { font-size: 14pt; line-height: 1.1; }
+  .ask p { font-size: 11pt; line-height: 1.22; margin-top: 0.04in; }
+  .ask .qr { width: 1.02in; margin-top: auto; padding-top: 0.08in; }
+  .ask .url { font-size: 8.6pt; color: var(--navy-soft); margin-top: 0.05in; line-height: 1.2; }
+  .phone { display: block; font-size: 19pt; font-weight: 700; margin-top: auto; padding-top: 0.1in; line-height: 1.05; }
+  .phone small { display: block; font-size: 10pt; font-weight: 400; color: var(--ink-muted); }
+
+  .footrow { display: flex; align-items: center; justify-content: center; gap: 0.2in; margin-top: 0.14in; padding-top: 0.1in; border-top: 0.6pt solid var(--navy); }
+  .footrow .qr { width: 0.62in; flex: none; }
+  .foot { font-size: 17pt; line-height: 1.1; }
+  .mission { font-size: 9.5pt; line-height: 1.2; text-align: left; margin-top: 0; max-width: 5.6in; }
+</style>
+</head>
+<body>
+
+<section class="page">
+  <div class="texture top"></div>
+  <div class="frame"></div>
+  <div class="content">
+    <div class="kicker smallcaps">Constitution Day · 1787 – 2026</div>
+    <img class="wtp" src="assets/we-the-people.png" alt="We the People, in the engrossed hand of the 1787 Constitution">
+    <div class="preamble italic">of the United States, in Order to form a more perfect Union…</div>
+
+    <div class="hear">Hear the Constitution <em>read aloud</em></div>
+
+    <div class="when">
+      <div class="date"><span class="day">Thursday,</span> September 17</div>
+      <div class="time">11 a.m.</div>
+    </div>
+
+    <div class="where">
+      On the steps of the U.S. Capitol
+      <small>Capitol Hill · Washington, D.C. · Free, public, and non-partisan. All are welcome.</small>
+    </div>
+
+    <div class="attest italic">“done in Convention by the Unanimous Consent of the States present the Seventeenth Day of September in the Year of our Lord one thousand seven hundred and Eighty seven…”</div>
+
+    <div class="asks-head"><span class="rule"></span><h2>Then ask Washington to read it too</h2><span class="rule"></span></div>
+    <p class="asks-sub">Since 2004, federal law has required schools that receive federal funds to teach the Constitution every September&nbsp;17. We ask Congress and the executive branch to do the same&nbsp;— out loud.</p>
+
+    <div class="asks">
+      <div class="ask">
+        <span class="num">1</span>
+        <b>Write your Representative and Senators</b>
+        <p>Ask them to read the Constitution aloud on the floor every September&nbsp;17, and to make it a standing rule of their chamber.</p>
+        <span class="phone">(202) 224-3121<small>U.S. Capitol switchboard</small></span>
+      </div>
+      <div class="ask">
+        <span class="num">2</span>
+        <b>Sign the petition</b>
+        <p>Ask the President to direct every federal agency to read the Constitution aloud each Constitution Day.</p>
+        <span class="qr"><img src="assets/qr-petition.svg" alt=""></span>
+        <span class="url">change.org/readconstitutionaloud</span>
+      </div>
+      <div class="ask">
+        <span class="num">3</span>
+        <b>Read the bill</b>
+        <p>The <i>Public Readings of the Founding Documents Act</i> is drafted and in the public domain. Any member may introduce it.</p>
+        <span class="qr"><img src="assets/qr-repo.svg" alt=""></span>
+        <span class="url">github.com/jaredscribe/<br>public-readings-of-the-founding-documents-act</span>
+      </div>
+    </div>
+
+    <div class="footrow">
+      <span class="qr"><img src="assets/qr-site.svg" alt=""></span>
+      <div>
+        <div class="foot url">declareindependence.net</div>
+        <p class="mission italic">Declareindependence.net is a non-partisan educational and civic action resource committed to historic commemoration with honesty, accuracy, and equity.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+</body>
+</html>

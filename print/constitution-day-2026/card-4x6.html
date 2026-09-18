@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Constitution Day Card</title>
+<link rel="stylesheet" href="handbill.css">
+<style>
+  @page { size: 4in 6in; margin: 0; }
+  .page { width: 4in; height: 6in; }
+  .frame { inset: 0.2in; }
+  .content { inset: 0.34in 0.36in 0.3in; }
+  .texture { height: 1.6in; left: 0.24in; right: 0.24in; }
+  .texture.top { top: 0.24in; }
+  .texture.bottom { bottom: 0.2in; }
+
+  /* front */
+  .kicker { font-size: 10.5pt; text-align: center; margin-top: 0.02in; }
+  .front .wtp { margin: 0.12in auto 0.02in; width: 3.3in; }
+  .preamble { font-size: 9pt; text-align: center; color: var(--ink-muted); }
+  .hear { font-size: 19pt; line-height: 1.02; text-align: center; font-weight: 600; margin-top: 0.2in; }
+  .hear em { color: var(--red); }
+  .when { margin-top: 0.2in; text-align: center; }
+  .when .day { font-size: 12pt; letter-spacing: 0.14em; }
+  .when .date { font-size: 27pt; font-weight: 700; line-height: 1; margin: 0.02in 0; }
+  .when .time { font-size: 17pt; font-weight: 600; color: var(--red); }
+  .where { text-align: center; margin-top: 0.14in; font-size: 13pt; line-height: 1.15; }
+  .where small { display: block; font-size: 10pt; color: var(--ink-muted); }
+  .attest { font-size: 8.6pt; line-height: 1.25; text-align: center; color: var(--ink-muted); margin: auto 0.12in 0; }
+  .welcome { font-size: 10pt; text-align: center; margin-top: auto; font-weight: 600; }
+  .front .foot { text-align: center; margin-top: 0.06in; font-size: 11pt; }
+  .front .stars { font-size: 8pt; margin: 0.1in 0 0.04in; }
+
+  /* back */
+  .back h2 { font-size: 16pt; text-align: center; font-weight: 700; line-height: 1.05; }
+  .back .sub { font-size: 9pt; text-align: center; color: var(--ink-muted); margin: 0.05in 0 0.1in; line-height: 1.2; }
+  .ask { display: flex; gap: 0.1in; align-items: flex-start; margin-bottom: 0.11in; }
+  .ask .num { width: 16pt; height: 16pt; font-size: 9pt; margin-top: 1pt; }
+  .ask .body { flex: 1; font-size: 9.3pt; line-height: 1.2; }
+  .ask .body b { font-size: 10.5pt; display: block; margin-bottom: 1pt; }
+  .ask .body .url { font-size: 7.6pt; color: var(--navy-soft); display: block; margin-top: 2pt; }
+  .ask .qr { width: 0.86in; flex: none; }
+  .phone { font-weight: 700; white-space: nowrap; }
+  .footrow { margin-top: auto; display: flex; gap: 0.12in; align-items: center; border-top: 0.6pt solid var(--red); padding-top: 0.08in; }
+  .footrow .qr { width: 0.62in; flex: none; }
+  .back .foot { font-size: 12.5pt; }
+  .back .mission { font-size: 7.6pt; line-height: 1.2; text-align: left; margin-top: 1pt; }
+</style>
+</head>
+<body>
+
+<!-- FRONT -->
+<section class="page front">
+  <div class="texture top"></div>
+  <div class="frame"></div>
+  <div class="content">
+    <div class="kicker smallcaps">Constitution Day · 1787 – 2026</div>
+    <img class="wtp" src="assets/we-the-people.png" alt="We the People, in the engrossed hand of the 1787 Constitution">
+    <div class="preamble italic">of the United States, in Order to form a more perfect Union…</div>
+
+    <div class="hear">Hear the Constitution<br><em>read aloud</em></div>
+
+    <div class="when">
+      <div class="day smallcaps">Thursday</div>
+      <div class="date">September 17</div>
+      <div class="time">11 a.m.</div>
+    </div>
+
+    <div class="where">
+      On the steps of the U.S. Capitol
+      <small>Capitol Hill · Washington, D.C.</small>
+    </div>
+
+    <div class="attest italic">“done in Convention by the Unanimous Consent of the States present the Seventeenth Day of September in the Year of our Lord one thousand seven hundred and Eighty seven…”</div>
+
+    <div class="welcome">Free, public, and non-partisan. All are welcome.</div>
+    <div class="stars">★ ★ ★</div>
+    <div class="foot url">declareindependence.net</div>
+  </div>
+</section>
+
+<!-- BACK -->
+<section class="page back">
+  <div class="frame"></div>
+  <div class="content">
+    <h2>Then ask Washington<br>to read it too</h2>
+    <p class="sub">Federal law has required schools that receive federal funds to teach the Constitution every September&nbsp;17 since 2004. We ask Congress and the executive branch to do the same&nbsp;— out loud.</p>
+
+    <div class="ask">
+      <span class="num">1</span>
+      <div class="body">
+        <b>Write your Representative and Senators.</b>
+        Ask them to read the Constitution aloud on the floor every September&nbsp;17, and to make it a standing rule of their chamber.
+        Capitol switchboard: <span class="phone">(202) 224-3121</span>
+      </div>
+    </div>
+
+    <div class="ask">
+      <span class="num">2</span>
+      <div class="body">
+        <b>Sign the petition.</b>
+        Ask the President to direct every federal agency to read the Constitution aloud each Constitution Day.
+        <span class="url">change.org/readconstitutionaloud</span>
+      </div>
+      <span class="qr"><img src="assets/qr-petition.svg" alt=""></span>
+    </div>
+
+    <div class="ask">
+      <span class="num">3</span>
+      <div class="body">
+        <b>Read the bill.</b>
+        The <i>Public Readings of the Founding Documents Act</i> is drafted and in the public domain. Any member may introduce it.
+        <span class="url">github.com/jaredscribe/<br>public-readings-of-the-<br>founding-documents-act</span>
+      </div>
+      <span class="qr"><img src="assets/qr-repo.svg" alt=""></span>
+    </div>
+
+    <div class="footrow">
+      <span class="qr"><img src="assets/qr-site.svg" alt=""></span>
+      <div>
+        <div class="foot url">declareindependence.net</div>
+        <p class="mission">Declareindependence.net is a non-partisan educational and civic action resource committed to historic commemoration with honesty, accuracy, and equity.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script>
+  /* ?side=front or ?side=back shows one side only, for cards-2up-letter.html */
+  const side = new URLSearchParams(location.search).get("side");
+  if (side) document.querySelectorAll(".page:not(." + side + ")").forEach(el => el.remove());
+  if (side) document.documentElement.classList.add("embedded");
+</script>
+</body>
+</html>

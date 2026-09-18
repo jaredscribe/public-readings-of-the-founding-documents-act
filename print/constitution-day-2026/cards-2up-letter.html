@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Constitution Day Cards 2-up</title>
+<style>
+  /* Two 4x6 cards per letter sheet, fronts on page 1, backs on page 2.
+     Both cards on a sheet are identical, so a long-edge duplex flip lines
+     each back up behind a front with no mirroring. Trim on the crop marks. */
+  @page { size: letter; margin: 0; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: #fff; }
+  .sheet { position: relative; width: 8.5in; height: 11in; page-break-after: always; overflow: hidden; }
+  .sheet:last-child { page-break-after: auto; }
+  iframe { position: absolute; top: 2.5in; width: 4in; height: 6in; border: 0; }
+  .l { left: 0.25in; } .r { left: 4.25in; }
+  .mark { position: absolute; background: #000; }
+  .h { height: 0.4pt; width: 0.18in; }
+  .v { width: 0.4pt; height: 0.18in; }
+  @media screen {
+    body { background: #d9dbe0; padding: 24px 0; }
+    .sheet { margin: 0 auto 24px; background: #fff; box-shadow: 0 2px 10px rgb(0 0 0 / 0.25); }
+  }
+  .label { position: absolute; left: 0; right: 0; top: 0.9in; text-align: center; font: 9pt sans-serif; color: #888; }
+</style>
+</head>
+<body>
+<div class="sheet">
+  <div class="label">Constitution Day cards — FRONTS. Print duplex, flip on long edge. Trim on the crop marks to 4 × 6 in.</div>
+  <iframe class="l" src="card-4x6.html?side=front"></iframe>
+  <iframe class="r" src="card-4x6.html?side=front"></iframe>
+</div>
+<div class="sheet">
+  <div class="label">Constitution Day cards — BACKS</div>
+  <iframe class="l" src="card-4x6.html?side=back"></iframe>
+  <iframe class="r" src="card-4x6.html?side=back"></iframe>
+</div>
+<script>
+  // Crop marks outside the trim: verticals at 0.25, 4.25, 8.25in; horizontals at 2.5, 8.5in.
+  for (const sheet of document.querySelectorAll(".sheet")) {
+    for (const x of [0.25, 4.25, 8.25]) for (const y of [2.5, 8.5]) {
+      const v = document.createElement("div"); v.className = "mark v";
+      v.style.left = x + "in"; v.style.top = (y < 5 ? y - 0.3 : y + 0.12) + "in"; sheet.append(v);
+    }
+    for (const y of [2.5, 8.5]) for (const x of [0.25, 8.25]) {
+      const h = document.createElement("div"); h.className = "mark h";
+      h.style.top = y + "in"; h.style.left = (x < 4 ? x - 0.24 : x + 0.06) + "in"; sheet.append(h);
+    }
+  }
+</script>
+</body>
+</html>

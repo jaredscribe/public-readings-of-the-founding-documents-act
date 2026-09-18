@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Constitution Week Cards 4-up</title>
+<style>
+  /* Four quarter-letter cards per letter sheet, fronts on page 1, backs on
+     page 2. Quarter-letter tiles the sheet exactly, so the cuts are the two
+     centre lines; the ticks at the sheet edges mark them. All four cards are
+     identical, so a long-edge duplex flip needs no mirroring. */
+  @page { size: letter; margin: 0; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: #fff; }
+  .sheet { position: relative; width: 8.5in; height: 11in; page-break-after: always; overflow: hidden; }
+  .sheet:last-child { page-break-after: auto; }
+  iframe { position: absolute; width: 4.25in; height: 5.5in; border: 0; }
+  .tl { left: 0; top: 0; } .tr { left: 4.25in; top: 0; }
+  .bl { left: 0; top: 5.5in; } .br { left: 4.25in; top: 5.5in; }
+  .mark { position: absolute; background: #000; }
+  .v { width: 0.3pt; height: 0.14in; left: 4.25in; }
+  .h { height: 0.3pt; width: 0.14in; top: 5.5in; }
+  @media screen {
+    body { background: #d9dbe0; padding: 24px 0; }
+    .sheet { margin: 0 auto 24px; background: #fff; box-shadow: 0 2px 10px rgb(0 0 0 / 0.25); }
+  }
+</style>
+</head>
+<body>
+<div class="sheet">
+  <iframe class="tl" src="card-quarter-letter.html?side=front"></iframe>
+  <iframe class="tr" src="card-quarter-letter.html?side=front"></iframe>
+  <iframe class="bl" src="card-quarter-letter.html?side=front"></iframe>
+  <iframe class="br" src="card-quarter-letter.html?side=front"></iframe>
+  <div class="mark v" style="top:0"></div><div class="mark v" style="bottom:0"></div>
+  <div class="mark h" style="left:0"></div><div class="mark h" style="right:0"></div>
+</div>
+<div class="sheet">
+  <iframe class="tl" src="card-quarter-letter.html?side=back"></iframe>
+  <iframe class="tr" src="card-quarter-letter.html?side=back"></iframe>
+  <iframe class="bl" src="card-quarter-letter.html?side=back"></iframe>
+  <iframe class="br" src="card-quarter-letter.html?side=back"></iframe>
+  <div class="mark v" style="top:0"></div><div class="mark v" style="bottom:0"></div>
+  <div class="mark h" style="left:0"></div><div class="mark h" style="right:0"></div>
+</div>
+</body>
+</html>
